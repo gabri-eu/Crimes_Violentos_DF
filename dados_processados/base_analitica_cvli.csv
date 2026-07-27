@@ -1,149 +1,1371 @@
-﻿unnamed_2,unnamed_0,tipo_crime,unnamed_1
-,,Homicídio,Tabela 1
-,,Homicídio,HOMICÍDIO
-2015,,Homicídio,Região Administrativa
-619,,Homicídio,Distrito Federal
-11,,Homicídio,Águas Claras
--,,Homicídio,Arniqueira
-23,,Homicídio,Brasília (Plano Piloto)
-21,,Homicídio,Brazlândia
-6,,Homicídio,Candangolândia
-112,,Homicídio,Ceilândia
-2,,Homicídio,Cruzeiro
-3,,Homicídio,Fercal
-38,,Homicídio,Gama
-15,,Homicídio,Guará
-30,,Homicídio,Itapoã
-0,,Homicídio,Jardim Botânico
-5,,Homicídio,Lago Norte
-0,,Homicídio,Lago Sul
-1,,Homicídio,Núcleo Bandeirante
-24,,Homicídio,Paranoá
-1,,Homicídio,Park Way
-57,,Homicídio,Planaltina
-39,,Homicídio,Recanto das Emas
-5,,Homicídio,Riacho Fundo
-5,,Homicídio,Riacho Fundo II
-39,,Homicídio,Samambaia
-53,,Homicídio,Santa Maria
-26,,Homicídio,São Sebastião
-24,,Homicídio,SCIA/Estrutural
-1,,Homicídio,SIA
-20,,Homicídio,Sobradinho
-20,,Homicídio,Sobradinho II
--,,Homicídio,Sol Nascente/Pôr do Sol
-0,,Homicídio,Sudoeste/Octogonal
-35,,Homicídio,Taguatinga
-0,,Homicídio,Varjão
-3,,Homicídio,Vicente Pires
--,,Homicídio,Unidades Prisionais
-,,Latrocínio,LATROCINIO
-2015,,Latrocínio,Região Administrativa
-46,,Latrocínio,Distrito Federal
-0,,Latrocínio,Águas Claras
--,,Latrocínio,Arniqueira
-1,,Latrocínio,Brasília (Plano Piloto)
-0,,Latrocínio,Brazlândia
-1,,Latrocínio,Candangolândia
-6,,Latrocínio,Ceilândia
-1,,Latrocínio,Cruzeiro
-0,,Latrocínio,Fercal
-3,,Latrocínio,Gama
-0,,Latrocínio,Guará
-0,,Latrocínio,Itapoã
-0,,Latrocínio,Jardim Botânico
-0,,Latrocínio,Lago Norte
-1,,Latrocínio,Lago Sul
-0,,Latrocínio,Núcleo Bandeirante
-1,,Latrocínio,Paranoá
-1,,Latrocínio,Park Way
-4,,Latrocínio,Planaltina
-2,,Latrocínio,Recanto das Emas
-0,,Latrocínio,Riacho Fundo
-0,,Latrocínio,Riacho Fundo II
-8,,Latrocínio,Samambaia
-6,,Latrocínio,Santa Maria
-0,,Latrocínio,São Sebastião
-1,,Latrocínio,SCIA/Estrutural
-0,,Latrocínio,SIA
-2,,Latrocínio,Sobradinho
-2,,Latrocínio,Sobradinho II
--,,Latrocínio,Sol Nascente/Pôr do Sol
-0,,Latrocínio,Sudoeste/Octogonal
-5,,Latrocínio,Taguatinga
-0,,Latrocínio,Varjão
-1,,Latrocínio,Vicente Pires
-,,Lesão seguida de morte,LCSM
-2015,,Lesão seguida de morte,Região Administrativa
-6,,Lesão seguida de morte,Distrito Federal
-0,,Lesão seguida de morte,Águas Claras
--,,Lesão seguida de morte,Arniqueira
-0,,Lesão seguida de morte,Brasília (Plano Piloto)
-0,,Lesão seguida de morte,Brazlândia
-0,,Lesão seguida de morte,Candangolândia
-0,,Lesão seguida de morte,Ceilândia
-0,,Lesão seguida de morte,Cruzeiro
-0,,Lesão seguida de morte,Fercal
-0,,Lesão seguida de morte,Gama
-1,,Lesão seguida de morte,Guará
-1,,Lesão seguida de morte,Itapoã
-0,,Lesão seguida de morte,Jardim Botânico
-0,,Lesão seguida de morte,Lago Norte
-0,,Lesão seguida de morte,Lago Sul
-0,,Lesão seguida de morte,Núcleo Bandeirante
-0,,Lesão seguida de morte,Paranoá
-0,,Lesão seguida de morte,Park Way
-2,,Lesão seguida de morte,Planaltina
-0,,Lesão seguida de morte,Recanto das Emas
-0,,Lesão seguida de morte,Riacho Fundo
-0,,Lesão seguida de morte,Riacho Fundo II
-1,,Lesão seguida de morte,Samambaia
-0,,Lesão seguida de morte,Santa Maria
-1,,Lesão seguida de morte,São Sebastião
-0,,Lesão seguida de morte,SCIA/Estrutural
-0,,Lesão seguida de morte,SIA
-0,,Lesão seguida de morte,Sobradinho
-0,,Lesão seguida de morte,Sobradinho II
--,,Lesão seguida de morte,Sol Nascente/Pôr do Sol
-0,,Lesão seguida de morte,Sudoeste/Octogonal
-0,,Lesão seguida de morte,Taguatinga
-0,,Lesão seguida de morte,Varjão
-0,,Lesão seguida de morte,Vicente Pires
-População IBGE 2024*,,Feminicídio,RA
-216847.903669168,,Feminicídio,Plano Piloto
-139648.565360285,,Feminicídio,Gama
-209900.296839944,,Feminicídio,Taguatinga
-43640.4373146009,,Feminicídio,Brazlândia
-73612.9386251305,,Feminicídio,Sobradinho
-127041.953448673,,Feminicídio,Planaltina
-57915.1421023769,,Feminicídio,Paranoá
-23526.3649022022,,Feminicídio,N. Bandeirante
-299331.96872135,,Feminicídio,Ceilândia
-133397.387306859,,Feminicídio,Guará
-27560.021988377,,Feminicídio,Cruzeiro
-236783.698655427,,Feminicídio,Samambaia
-126811.548120153,,Feminicídio,Santa Maria
-103265.374615046,,Feminicídio,São Sebastião
-110367.280035316,,Feminicídio,Recanto das Emas
-28371.1321494119,,Feminicídio,Lago Sul
-42786.5822736143,,Feminicídio,Riacho Fundo
-45681.7659718069,,Feminicídio,Lago Norte
-15158.7940121431,,Feminicídio,Candangolândia
-147909.795329488,,Feminicídio,Águas Claras
-73166.7237807566,,Feminicídio,Riacho Fundo II
-47961.840421914,,Feminicídio,Sudoeste e Octogonal
-9400.74591523343,,Feminicídio,Varjão
-23631.6632650101,,Feminicídio,Park Way
-39666.2060371394,,Feminicídio,SCIA/Estrutural
-83333.749860978,,Feminicídio,Sobradinho II
-78330.5137905327,,Feminicídio,Jardim Botânico
-69873.2829083797,,Feminicídio,Itapoã
-5869.60180800313,,Feminicídio,SIA
-109533.233597233,,Feminicídio,Vicente Pires
-9530.02311313616,,Feminicídio,Fercal
-113339.613029031,,Feminicídio,Sol Nascente e Pôr do Sol
-46679.4940233627,,Feminicídio,Arniqueira
-51155.195721721,,Feminicídio,Arapoanga
-11787.161286196,,Feminicídio,Água Quente
-2982818,,Feminicídio,Total
-,,Feminicídio,*População das RA's ajustada pela proporção do número da PDAD 2024
+﻿regiao_administrativa,variacao_2015_2024,variacao_2023_2024,nivel_geografico,tipo_crime,ano,ocorrencias
+Arniqueira,0,-1,Região Administrativa,feminicidios,2015,0
+Arniqueira,0,-1,Região Administrativa,feminicidios,2016,0
+Arniqueira,0,-1,Região Administrativa,feminicidios,2017,0
+Arniqueira,0,-1,Região Administrativa,feminicidios,2018,0
+Arniqueira,0,-1,Região Administrativa,feminicidios,2019,0
+Arniqueira,0,-1,Região Administrativa,feminicidios,2020,0
+Arniqueira,0,-1,Região Administrativa,feminicidios,2021,0
+Arniqueira,0,-1,Região Administrativa,feminicidios,2022,0
+Arniqueira,0,-1,Região Administrativa,feminicidios,2023,1
+Arniqueira,0,-1,Região Administrativa,feminicidios,2024,0
+Brasília (Plano Piloto),0,-1,Região Administrativa,feminicidios,2015,0
+Brasília (Plano Piloto),0,-1,Região Administrativa,feminicidios,2016,1
+Brasília (Plano Piloto),0,-1,Região Administrativa,feminicidios,2017,1
+Brasília (Plano Piloto),0,-1,Região Administrativa,feminicidios,2018,2
+Brasília (Plano Piloto),0,-1,Região Administrativa,feminicidios,2019,4
+Brasília (Plano Piloto),0,-1,Região Administrativa,feminicidios,2020,0
+Brasília (Plano Piloto),0,-1,Região Administrativa,feminicidios,2021,0
+Brasília (Plano Piloto),0,-1,Região Administrativa,feminicidios,2022,0
+Brasília (Plano Piloto),0,-1,Região Administrativa,feminicidios,2023,1
+Brasília (Plano Piloto),0,-1,Região Administrativa,feminicidios,2024,0
+Brazlândia,-1,0,Região Administrativa,feminicidios,2015,1
+Brazlândia,-1,0,Região Administrativa,feminicidios,2016,1
+Brazlândia,-1,0,Região Administrativa,feminicidios,2017,0
+Brazlândia,-1,0,Região Administrativa,feminicidios,2018,0
+Brazlândia,-1,0,Região Administrativa,feminicidios,2019,0
+Brazlândia,-1,0,Região Administrativa,feminicidios,2020,0
+Brazlândia,-1,0,Região Administrativa,feminicidios,2021,0
+Brazlândia,-1,0,Região Administrativa,feminicidios,2022,1
+Brazlândia,-1,0,Região Administrativa,feminicidios,2023,0
+Brazlândia,-1,0,Região Administrativa,feminicidios,2024,0
+Candangolândia,0,0,Região Administrativa,feminicidios,2015,0
+Candangolândia,0,0,Região Administrativa,feminicidios,2016,0
+Candangolândia,0,0,Região Administrativa,feminicidios,2017,1
+Candangolândia,0,0,Região Administrativa,feminicidios,2018,0
+Candangolândia,0,0,Região Administrativa,feminicidios,2019,0
+Candangolândia,0,0,Região Administrativa,feminicidios,2020,1
+Candangolândia,0,0,Região Administrativa,feminicidios,2021,0
+Candangolândia,0,0,Região Administrativa,feminicidios,2022,0
+Candangolândia,0,0,Região Administrativa,feminicidios,2023,0
+Candangolândia,0,0,Região Administrativa,feminicidios,2024,0
+Ceilândia,2,-3,Região Administrativa,feminicidios,2015,1
+Ceilândia,2,-3,Região Administrativa,feminicidios,2016,5
+Ceilândia,2,-3,Região Administrativa,feminicidios,2017,2
+Ceilândia,2,-3,Região Administrativa,feminicidios,2018,0
+Ceilândia,2,-3,Região Administrativa,feminicidios,2019,2
+Ceilândia,2,-3,Região Administrativa,feminicidios,2020,3
+Ceilândia,2,-3,Região Administrativa,feminicidios,2021,3
+Ceilândia,2,-3,Região Administrativa,feminicidios,2022,3
+Ceilândia,2,-3,Região Administrativa,feminicidios,2023,6
+Ceilândia,2,-3,Região Administrativa,feminicidios,2024,3
+Cruzeiro,0,0,Região Administrativa,feminicidios,2015,0
+Cruzeiro,0,0,Região Administrativa,feminicidios,2016,0
+Cruzeiro,0,0,Região Administrativa,feminicidios,2017,0
+Cruzeiro,0,0,Região Administrativa,feminicidios,2018,0
+Cruzeiro,0,0,Região Administrativa,feminicidios,2019,1
+Cruzeiro,0,0,Região Administrativa,feminicidios,2020,0
+Cruzeiro,0,0,Região Administrativa,feminicidios,2021,0
+Cruzeiro,0,0,Região Administrativa,feminicidios,2022,1
+Cruzeiro,0,0,Região Administrativa,feminicidios,2023,0
+Cruzeiro,0,0,Região Administrativa,feminicidios,2024,0
+Distrito Federal,14,-8,Distrito Federal,feminicidios,2015,9
+Distrito Federal,14,-8,Distrito Federal,feminicidios,2016,22
+Distrito Federal,14,-8,Distrito Federal,feminicidios,2017,17
+Distrito Federal,14,-8,Distrito Federal,feminicidios,2018,27
+Distrito Federal,14,-8,Distrito Federal,feminicidios,2019,33
+Distrito Federal,14,-8,Distrito Federal,feminicidios,2020,18
+Distrito Federal,14,-8,Distrito Federal,feminicidios,2021,26
+Distrito Federal,14,-8,Distrito Federal,feminicidios,2022,20
+Distrito Federal,14,-8,Distrito Federal,feminicidios,2023,31
+Distrito Federal,14,-8,Distrito Federal,feminicidios,2024,23
+Fercal,0,0,Região Administrativa,feminicidios,2015,0
+Fercal,0,0,Região Administrativa,feminicidios,2016,1
+Fercal,0,0,Região Administrativa,feminicidios,2017,1
+Fercal,0,0,Região Administrativa,feminicidios,2018,0
+Fercal,0,0,Região Administrativa,feminicidios,2019,1
+Fercal,0,0,Região Administrativa,feminicidios,2020,1
+Fercal,0,0,Região Administrativa,feminicidios,2021,0
+Fercal,0,0,Região Administrativa,feminicidios,2022,0
+Fercal,0,0,Região Administrativa,feminicidios,2023,0
+Fercal,0,0,Região Administrativa,feminicidios,2024,0
+Gama,1,0,Região Administrativa,feminicidios,2015,2
+Gama,1,0,Região Administrativa,feminicidios,2016,2
+Gama,1,0,Região Administrativa,feminicidios,2017,0
+Gama,1,0,Região Administrativa,feminicidios,2018,1
+Gama,1,0,Região Administrativa,feminicidios,2019,2
+Gama,1,0,Região Administrativa,feminicidios,2020,0
+Gama,1,0,Região Administrativa,feminicidios,2021,1
+Gama,1,0,Região Administrativa,feminicidios,2022,0
+Gama,1,0,Região Administrativa,feminicidios,2023,3
+Gama,1,0,Região Administrativa,feminicidios,2024,3
+Guará,-2,0,Região Administrativa,feminicidios,2015,2
+Guará,-2,0,Região Administrativa,feminicidios,2016,1
+Guará,-2,0,Região Administrativa,feminicidios,2017,0
+Guará,-2,0,Região Administrativa,feminicidios,2018,1
+Guará,-2,0,Região Administrativa,feminicidios,2019,0
+Guará,-2,0,Região Administrativa,feminicidios,2020,0
+Guará,-2,0,Região Administrativa,feminicidios,2021,0
+Guará,-2,0,Região Administrativa,feminicidios,2022,0
+Guará,-2,0,Região Administrativa,feminicidios,2023,0
+Guará,-2,0,Região Administrativa,feminicidios,2024,0
+Itapoã,2,2,Região Administrativa,feminicidios,2015,0
+Itapoã,2,2,Região Administrativa,feminicidios,2016,1
+Itapoã,2,2,Região Administrativa,feminicidios,2017,0
+Itapoã,2,2,Região Administrativa,feminicidios,2018,2
+Itapoã,2,2,Região Administrativa,feminicidios,2019,1
+Itapoã,2,2,Região Administrativa,feminicidios,2020,1
+Itapoã,2,2,Região Administrativa,feminicidios,2021,1
+Itapoã,2,2,Região Administrativa,feminicidios,2022,2
+Itapoã,2,2,Região Administrativa,feminicidios,2023,0
+Itapoã,2,2,Região Administrativa,feminicidios,2024,2
+Jardim Botânico,1,1,Região Administrativa,feminicidios,2015,0
+Jardim Botânico,1,1,Região Administrativa,feminicidios,2016,1
+Jardim Botânico,1,1,Região Administrativa,feminicidios,2017,0
+Jardim Botânico,1,1,Região Administrativa,feminicidios,2018,0
+Jardim Botânico,1,1,Região Administrativa,feminicidios,2019,0
+Jardim Botânico,1,1,Região Administrativa,feminicidios,2020,0
+Jardim Botânico,1,1,Região Administrativa,feminicidios,2021,0
+Jardim Botânico,1,1,Região Administrativa,feminicidios,2022,0
+Jardim Botânico,1,1,Região Administrativa,feminicidios,2023,0
+Jardim Botânico,1,1,Região Administrativa,feminicidios,2024,1
+Lago Norte,0,0,Região Administrativa,feminicidios,2015,0
+Lago Norte,0,0,Região Administrativa,feminicidios,2016,0
+Lago Norte,0,0,Região Administrativa,feminicidios,2017,0
+Lago Norte,0,0,Região Administrativa,feminicidios,2018,0
+Lago Norte,0,0,Região Administrativa,feminicidios,2019,0
+Lago Norte,0,0,Região Administrativa,feminicidios,2020,0
+Lago Norte,0,0,Região Administrativa,feminicidios,2021,0
+Lago Norte,0,0,Região Administrativa,feminicidios,2022,0
+Lago Norte,0,0,Região Administrativa,feminicidios,2023,0
+Lago Norte,0,0,Região Administrativa,feminicidios,2024,0
+Lago Sul,0,0,Região Administrativa,feminicidios,2015,0
+Lago Sul,0,0,Região Administrativa,feminicidios,2016,0
+Lago Sul,0,0,Região Administrativa,feminicidios,2017,0
+Lago Sul,0,0,Região Administrativa,feminicidios,2018,0
+Lago Sul,0,0,Região Administrativa,feminicidios,2019,0
+Lago Sul,0,0,Região Administrativa,feminicidios,2020,1
+Lago Sul,0,0,Região Administrativa,feminicidios,2021,0
+Lago Sul,0,0,Região Administrativa,feminicidios,2022,0
+Lago Sul,0,0,Região Administrativa,feminicidios,2023,0
+Lago Sul,0,0,Região Administrativa,feminicidios,2024,0
+Núcleo Bandeirante,0,0,Região Administrativa,feminicidios,2015,0
+Núcleo Bandeirante,0,0,Região Administrativa,feminicidios,2016,0
+Núcleo Bandeirante,0,0,Região Administrativa,feminicidios,2017,0
+Núcleo Bandeirante,0,0,Região Administrativa,feminicidios,2018,0
+Núcleo Bandeirante,0,0,Região Administrativa,feminicidios,2019,0
+Núcleo Bandeirante,0,0,Região Administrativa,feminicidios,2020,1
+Núcleo Bandeirante,0,0,Região Administrativa,feminicidios,2021,0
+Núcleo Bandeirante,0,0,Região Administrativa,feminicidios,2022,0
+Núcleo Bandeirante,0,0,Região Administrativa,feminicidios,2023,0
+Núcleo Bandeirante,0,0,Região Administrativa,feminicidios,2024,0
+Paranoá,1,1,Região Administrativa,feminicidios,2015,0
+Paranoá,1,1,Região Administrativa,feminicidios,2016,1
+Paranoá,1,1,Região Administrativa,feminicidios,2017,0
+Paranoá,1,1,Região Administrativa,feminicidios,2018,0
+Paranoá,1,1,Região Administrativa,feminicidios,2019,3
+Paranoá,1,1,Região Administrativa,feminicidios,2020,0
+Paranoá,1,1,Região Administrativa,feminicidios,2021,3
+Paranoá,1,1,Região Administrativa,feminicidios,2022,0
+Paranoá,1,1,Região Administrativa,feminicidios,2023,0
+Paranoá,1,1,Região Administrativa,feminicidios,2024,1
+Park Way,0,-1,Região Administrativa,feminicidios,2015,0
+Park Way,0,-1,Região Administrativa,feminicidios,2016,0
+Park Way,0,-1,Região Administrativa,feminicidios,2017,0
+Park Way,0,-1,Região Administrativa,feminicidios,2018,0
+Park Way,0,-1,Região Administrativa,feminicidios,2019,0
+Park Way,0,-1,Região Administrativa,feminicidios,2020,0
+Park Way,0,-1,Região Administrativa,feminicidios,2021,0
+Park Way,0,-1,Região Administrativa,feminicidios,2022,0
+Park Way,0,-1,Região Administrativa,feminicidios,2023,1
+Park Way,0,-1,Região Administrativa,feminicidios,2024,0
+Planaltina,-1,-4,Região Administrativa,feminicidios,2015,1
+Planaltina,-1,-4,Região Administrativa,feminicidios,2016,1
+Planaltina,-1,-4,Região Administrativa,feminicidios,2017,0
+Planaltina,-1,-4,Região Administrativa,feminicidios,2018,1
+Planaltina,-1,-4,Região Administrativa,feminicidios,2019,3
+Planaltina,-1,-4,Região Administrativa,feminicidios,2020,2
+Planaltina,-1,-4,Região Administrativa,feminicidios,2021,1
+Planaltina,-1,-4,Região Administrativa,feminicidios,2022,2
+Planaltina,-1,-4,Região Administrativa,feminicidios,2023,4
+Planaltina,-1,-4,Região Administrativa,feminicidios,2024,0
+Recanto das Emas,1,-1,Região Administrativa,feminicidios,2015,0
+Recanto das Emas,1,-1,Região Administrativa,feminicidios,2016,0
+Recanto das Emas,1,-1,Região Administrativa,feminicidios,2017,0
+Recanto das Emas,1,-1,Região Administrativa,feminicidios,2018,3
+Recanto das Emas,1,-1,Região Administrativa,feminicidios,2019,0
+Recanto das Emas,1,-1,Região Administrativa,feminicidios,2020,2
+Recanto das Emas,1,-1,Região Administrativa,feminicidios,2021,1
+Recanto das Emas,1,-1,Região Administrativa,feminicidios,2022,2
+Recanto das Emas,1,-1,Região Administrativa,feminicidios,2023,2
+Recanto das Emas,1,-1,Região Administrativa,feminicidios,2024,1
+Riacho Fundo,0,-1,Região Administrativa,feminicidios,2015,0
+Riacho Fundo,0,-1,Região Administrativa,feminicidios,2016,0
+Riacho Fundo,0,-1,Região Administrativa,feminicidios,2017,1
+Riacho Fundo,0,-1,Região Administrativa,feminicidios,2018,0
+Riacho Fundo,0,-1,Região Administrativa,feminicidios,2019,1
+Riacho Fundo,0,-1,Região Administrativa,feminicidios,2020,0
+Riacho Fundo,0,-1,Região Administrativa,feminicidios,2021,0
+Riacho Fundo,0,-1,Região Administrativa,feminicidios,2022,0
+Riacho Fundo,0,-1,Região Administrativa,feminicidios,2023,1
+Riacho Fundo,0,-1,Região Administrativa,feminicidios,2024,0
+Riacho Fundo II,0,-1,Região Administrativa,feminicidios,2015,0
+Riacho Fundo II,0,-1,Região Administrativa,feminicidios,2016,1
+Riacho Fundo II,0,-1,Região Administrativa,feminicidios,2017,0
+Riacho Fundo II,0,-1,Região Administrativa,feminicidios,2018,2
+Riacho Fundo II,0,-1,Região Administrativa,feminicidios,2019,0
+Riacho Fundo II,0,-1,Região Administrativa,feminicidios,2020,0
+Riacho Fundo II,0,-1,Região Administrativa,feminicidios,2021,1
+Riacho Fundo II,0,-1,Região Administrativa,feminicidios,2022,1
+Riacho Fundo II,0,-1,Região Administrativa,feminicidios,2023,1
+Riacho Fundo II,0,-1,Região Administrativa,feminicidios,2024,0
+SCIA/Estrutural,1,1,Região Administrativa,feminicidios,2015,1
+SCIA/Estrutural,1,1,Região Administrativa,feminicidios,2016,1
+SCIA/Estrutural,1,1,Região Administrativa,feminicidios,2017,1
+SCIA/Estrutural,1,1,Região Administrativa,feminicidios,2018,1
+SCIA/Estrutural,1,1,Região Administrativa,feminicidios,2019,0
+SCIA/Estrutural,1,1,Região Administrativa,feminicidios,2020,0
+SCIA/Estrutural,1,1,Região Administrativa,feminicidios,2021,1
+SCIA/Estrutural,1,1,Região Administrativa,feminicidios,2022,0
+SCIA/Estrutural,1,1,Região Administrativa,feminicidios,2023,1
+SCIA/Estrutural,1,1,Região Administrativa,feminicidios,2024,2
+SIA,1,1,Região Administrativa,feminicidios,2015,0
+SIA,1,1,Região Administrativa,feminicidios,2016,0
+SIA,1,1,Região Administrativa,feminicidios,2017,0
+SIA,1,1,Região Administrativa,feminicidios,2018,0
+SIA,1,1,Região Administrativa,feminicidios,2019,0
+SIA,1,1,Região Administrativa,feminicidios,2020,0
+SIA,1,1,Região Administrativa,feminicidios,2021,0
+SIA,1,1,Região Administrativa,feminicidios,2022,0
+SIA,1,1,Região Administrativa,feminicidios,2023,0
+SIA,1,1,Região Administrativa,feminicidios,2024,1
+Samambaia,1,0,Região Administrativa,feminicidios,2015,1
+Samambaia,1,0,Região Administrativa,feminicidios,2016,3
+Samambaia,1,0,Região Administrativa,feminicidios,2017,3
+Samambaia,1,0,Região Administrativa,feminicidios,2018,2
+Samambaia,1,0,Região Administrativa,feminicidios,2019,1
+Samambaia,1,0,Região Administrativa,feminicidios,2020,2
+Samambaia,1,0,Região Administrativa,feminicidios,2021,4
+Samambaia,1,0,Região Administrativa,feminicidios,2022,1
+Samambaia,1,0,Região Administrativa,feminicidios,2023,2
+Samambaia,1,0,Região Administrativa,feminicidios,2024,2
+Santa Maria,1,0,Região Administrativa,feminicidios,2015,0
+Santa Maria,1,0,Região Administrativa,feminicidios,2016,1
+Santa Maria,1,0,Região Administrativa,feminicidios,2017,2
+Santa Maria,1,0,Região Administrativa,feminicidios,2018,3
+Santa Maria,1,0,Região Administrativa,feminicidios,2019,3
+Santa Maria,1,0,Região Administrativa,feminicidios,2020,1
+Santa Maria,1,0,Região Administrativa,feminicidios,2021,2
+Santa Maria,1,0,Região Administrativa,feminicidios,2022,1
+Santa Maria,1,0,Região Administrativa,feminicidios,2023,1
+Santa Maria,1,0,Região Administrativa,feminicidios,2024,1
+Sobradinho,0,0,Região Administrativa,feminicidios,2015,0
+Sobradinho,0,0,Região Administrativa,feminicidios,2016,1
+Sobradinho,0,0,Região Administrativa,feminicidios,2017,0
+Sobradinho,0,0,Região Administrativa,feminicidios,2018,5
+Sobradinho,0,0,Região Administrativa,feminicidios,2019,2
+Sobradinho,0,0,Região Administrativa,feminicidios,2020,0
+Sobradinho,0,0,Região Administrativa,feminicidios,2021,3
+Sobradinho,0,0,Região Administrativa,feminicidios,2022,1
+Sobradinho,0,0,Região Administrativa,feminicidios,2023,0
+Sobradinho,0,0,Região Administrativa,feminicidios,2024,0
+Sobradinho II,0,-1,Região Administrativa,feminicidios,2015,0
+Sobradinho II,0,-1,Região Administrativa,feminicidios,2016,0
+Sobradinho II,0,-1,Região Administrativa,feminicidios,2017,0
+Sobradinho II,0,-1,Região Administrativa,feminicidios,2018,3
+Sobradinho II,0,-1,Região Administrativa,feminicidios,2019,1
+Sobradinho II,0,-1,Região Administrativa,feminicidios,2020,0
+Sobradinho II,0,-1,Região Administrativa,feminicidios,2021,2
+Sobradinho II,0,-1,Região Administrativa,feminicidios,2022,0
+Sobradinho II,0,-1,Região Administrativa,feminicidios,2023,1
+Sobradinho II,0,-1,Região Administrativa,feminicidios,2024,0
+Sol Nascente/Pôr do Sol,1,0,Região Administrativa,feminicidios,2015,0
+Sol Nascente/Pôr do Sol,1,0,Região Administrativa,feminicidios,2016,0
+Sol Nascente/Pôr do Sol,1,0,Região Administrativa,feminicidios,2017,0
+Sol Nascente/Pôr do Sol,1,0,Região Administrativa,feminicidios,2018,0
+Sol Nascente/Pôr do Sol,1,0,Região Administrativa,feminicidios,2019,0
+Sol Nascente/Pôr do Sol,1,0,Região Administrativa,feminicidios,2020,1
+Sol Nascente/Pôr do Sol,1,0,Região Administrativa,feminicidios,2021,1
+Sol Nascente/Pôr do Sol,1,0,Região Administrativa,feminicidios,2022,1
+Sol Nascente/Pôr do Sol,1,0,Região Administrativa,feminicidios,2023,1
+Sol Nascente/Pôr do Sol,1,0,Região Administrativa,feminicidios,2024,1
+Sudoeste/Octogonal,0,0,Região Administrativa,feminicidios,2015,0
+Sudoeste/Octogonal,0,0,Região Administrativa,feminicidios,2016,0
+Sudoeste/Octogonal,0,0,Região Administrativa,feminicidios,2017,0
+Sudoeste/Octogonal,0,0,Região Administrativa,feminicidios,2018,0
+Sudoeste/Octogonal,0,0,Região Administrativa,feminicidios,2019,1
+Sudoeste/Octogonal,0,0,Região Administrativa,feminicidios,2020,0
+Sudoeste/Octogonal,0,0,Região Administrativa,feminicidios,2021,0
+Sudoeste/Octogonal,0,0,Região Administrativa,feminicidios,2022,1
+Sudoeste/Octogonal,0,0,Região Administrativa,feminicidios,2023,0
+Sudoeste/Octogonal,0,0,Região Administrativa,feminicidios,2024,0
+São Sebastião,1,-1,Região Administrativa,feminicidios,2015,0
+São Sebastião,1,-1,Região Administrativa,feminicidios,2016,0
+São Sebastião,1,-1,Região Administrativa,feminicidios,2017,3
+São Sebastião,1,-1,Região Administrativa,feminicidios,2018,1
+São Sebastião,1,-1,Região Administrativa,feminicidios,2019,1
+São Sebastião,1,-1,Região Administrativa,feminicidios,2020,0
+São Sebastião,1,-1,Região Administrativa,feminicidios,2021,1
+São Sebastião,1,-1,Região Administrativa,feminicidios,2022,0
+São Sebastião,1,-1,Região Administrativa,feminicidios,2023,2
+São Sebastião,1,-1,Região Administrativa,feminicidios,2024,1
+Taguatinga,1,-1,Região Administrativa,feminicidios,2015,0
+Taguatinga,1,-1,Região Administrativa,feminicidios,2016,0
+Taguatinga,1,-1,Região Administrativa,feminicidios,2017,0
+Taguatinga,1,-1,Região Administrativa,feminicidios,2018,0
+Taguatinga,1,-1,Região Administrativa,feminicidios,2019,3
+Taguatinga,1,-1,Região Administrativa,feminicidios,2020,1
+Taguatinga,1,-1,Região Administrativa,feminicidios,2021,1
+Taguatinga,1,-1,Região Administrativa,feminicidios,2022,3
+Taguatinga,1,-1,Região Administrativa,feminicidios,2023,2
+Taguatinga,1,-1,Região Administrativa,feminicidios,2024,1
+Varjão,0,0,Região Administrativa,feminicidios,2015,0
+Varjão,0,0,Região Administrativa,feminicidios,2016,0
+Varjão,0,0,Região Administrativa,feminicidios,2017,0
+Varjão,0,0,Região Administrativa,feminicidios,2018,0
+Varjão,0,0,Região Administrativa,feminicidios,2019,0
+Varjão,0,0,Região Administrativa,feminicidios,2020,0
+Varjão,0,0,Região Administrativa,feminicidios,2021,0
+Varjão,0,0,Região Administrativa,feminicidios,2022,0
+Varjão,0,0,Região Administrativa,feminicidios,2023,0
+Varjão,0,0,Região Administrativa,feminicidios,2024,0
+Vicente Pires,2,1,Região Administrativa,feminicidios,2015,0
+Vicente Pires,2,1,Região Administrativa,feminicidios,2016,0
+Vicente Pires,2,1,Região Administrativa,feminicidios,2017,1
+Vicente Pires,2,1,Região Administrativa,feminicidios,2018,0
+Vicente Pires,2,1,Região Administrativa,feminicidios,2019,3
+Vicente Pires,2,1,Região Administrativa,feminicidios,2020,0
+Vicente Pires,2,1,Região Administrativa,feminicidios,2021,0
+Vicente Pires,2,1,Região Administrativa,feminicidios,2022,0
+Vicente Pires,2,1,Região Administrativa,feminicidios,2023,1
+Vicente Pires,2,1,Região Administrativa,feminicidios,2024,2
+Águas Claras,1,1,Região Administrativa,feminicidios,2015,0
+Águas Claras,1,1,Região Administrativa,feminicidios,2016,0
+Águas Claras,1,1,Região Administrativa,feminicidios,2017,1
+Águas Claras,1,1,Região Administrativa,feminicidios,2018,0
+Águas Claras,1,1,Região Administrativa,feminicidios,2019,0
+Águas Claras,1,1,Região Administrativa,feminicidios,2020,1
+Águas Claras,1,1,Região Administrativa,feminicidios,2021,0
+Águas Claras,1,1,Região Administrativa,feminicidios,2022,0
+Águas Claras,1,1,Região Administrativa,feminicidios,2023,0
+Águas Claras,1,1,Região Administrativa,feminicidios,2024,1
+Arniqueira,0,-4,Região Administrativa,homicidios,2015,0
+Arniqueira,0,-4,Região Administrativa,homicidios,2016,0
+Arniqueira,0,-4,Região Administrativa,homicidios,2017,0
+Arniqueira,0,-4,Região Administrativa,homicidios,2018,0
+Arniqueira,0,-4,Região Administrativa,homicidios,2019,0
+Arniqueira,0,-4,Região Administrativa,homicidios,2020,6
+Arniqueira,0,-4,Região Administrativa,homicidios,2021,4
+Arniqueira,0,-4,Região Administrativa,homicidios,2022,4
+Arniqueira,0,-4,Região Administrativa,homicidios,2023,4
+Arniqueira,0,-4,Região Administrativa,homicidios,2024,0
+Brasília (Plano Piloto),-15,2,Região Administrativa,homicidios,2015,23
+Brasília (Plano Piloto),-15,2,Região Administrativa,homicidios,2016,14
+Brasília (Plano Piloto),-15,2,Região Administrativa,homicidios,2017,16
+Brasília (Plano Piloto),-15,2,Região Administrativa,homicidios,2018,19
+Brasília (Plano Piloto),-15,2,Região Administrativa,homicidios,2019,15
+Brasília (Plano Piloto),-15,2,Região Administrativa,homicidios,2020,9
+Brasília (Plano Piloto),-15,2,Região Administrativa,homicidios,2021,7
+Brasília (Plano Piloto),-15,2,Região Administrativa,homicidios,2022,7
+Brasília (Plano Piloto),-15,2,Região Administrativa,homicidios,2023,6
+Brasília (Plano Piloto),-15,2,Região Administrativa,homicidios,2024,8
+Brazlândia,-16,0,Região Administrativa,homicidios,2015,21
+Brazlândia,-16,0,Região Administrativa,homicidios,2016,19
+Brazlândia,-16,0,Região Administrativa,homicidios,2017,11
+Brazlândia,-16,0,Região Administrativa,homicidios,2018,21
+Brazlândia,-16,0,Região Administrativa,homicidios,2019,2
+Brazlândia,-16,0,Região Administrativa,homicidios,2020,5
+Brazlândia,-16,0,Região Administrativa,homicidios,2021,9
+Brazlândia,-16,0,Região Administrativa,homicidios,2022,7
+Brazlândia,-16,0,Região Administrativa,homicidios,2023,5
+Brazlândia,-16,0,Região Administrativa,homicidios,2024,5
+Candangolândia,-6,-1,Região Administrativa,homicidios,2015,6
+Candangolândia,-6,-1,Região Administrativa,homicidios,2016,2
+Candangolândia,-6,-1,Região Administrativa,homicidios,2017,5
+Candangolândia,-6,-1,Região Administrativa,homicidios,2018,0
+Candangolândia,-6,-1,Região Administrativa,homicidios,2019,0
+Candangolândia,-6,-1,Região Administrativa,homicidios,2020,2
+Candangolândia,-6,-1,Região Administrativa,homicidios,2021,1
+Candangolândia,-6,-1,Região Administrativa,homicidios,2022,3
+Candangolândia,-6,-1,Região Administrativa,homicidios,2023,1
+Candangolândia,-6,-1,Região Administrativa,homicidios,2024,0
+Ceilândia,-79,-8,Região Administrativa,homicidios,2015,112
+Ceilândia,-79,-8,Região Administrativa,homicidios,2016,90
+Ceilândia,-79,-8,Região Administrativa,homicidios,2017,77
+Ceilândia,-79,-8,Região Administrativa,homicidios,2018,83
+Ceilândia,-79,-8,Região Administrativa,homicidios,2019,77
+Ceilândia,-79,-8,Região Administrativa,homicidios,2020,46
+Ceilândia,-79,-8,Região Administrativa,homicidios,2021,42
+Ceilândia,-79,-8,Região Administrativa,homicidios,2022,31
+Ceilândia,-79,-8,Região Administrativa,homicidios,2023,41
+Ceilândia,-79,-8,Região Administrativa,homicidios,2024,33
+Cruzeiro,-2,0,Região Administrativa,homicidios,2015,2
+Cruzeiro,-2,0,Região Administrativa,homicidios,2016,0
+Cruzeiro,-2,0,Região Administrativa,homicidios,2017,0
+Cruzeiro,-2,0,Região Administrativa,homicidios,2018,0
+Cruzeiro,-2,0,Região Administrativa,homicidios,2019,2
+Cruzeiro,-2,0,Região Administrativa,homicidios,2020,0
+Cruzeiro,-2,0,Região Administrativa,homicidios,2021,1
+Cruzeiro,-2,0,Região Administrativa,homicidios,2022,1
+Cruzeiro,-2,0,Região Administrativa,homicidios,2023,0
+Cruzeiro,-2,0,Região Administrativa,homicidios,2024,0
+Distrito Federal,-412,-27,Distrito Federal,homicidios,2015,619
+Distrito Federal,-412,-27,Distrito Federal,homicidios,2016,582
+Distrito Federal,-412,-27,Distrito Federal,homicidios,2017,493
+Distrito Federal,-412,-27,Distrito Federal,homicidios,2018,434
+Distrito Federal,-412,-27,Distrito Federal,homicidios,2019,386
+Distrito Federal,-412,-27,Distrito Federal,homicidios,2020,357
+Distrito Federal,-412,-27,Distrito Federal,homicidios,2021,287
+Distrito Federal,-412,-27,Distrito Federal,homicidios,2022,261
+Distrito Federal,-412,-27,Distrito Federal,homicidios,2023,234
+Distrito Federal,-412,-27,Distrito Federal,homicidios,2024,207
+Fercal,0,1,Região Administrativa,homicidios,2015,3
+Fercal,0,1,Região Administrativa,homicidios,2016,5
+Fercal,0,1,Região Administrativa,homicidios,2017,7
+Fercal,0,1,Região Administrativa,homicidios,2018,5
+Fercal,0,1,Região Administrativa,homicidios,2019,5
+Fercal,0,1,Região Administrativa,homicidios,2020,4
+Fercal,0,1,Região Administrativa,homicidios,2021,3
+Fercal,0,1,Região Administrativa,homicidios,2022,4
+Fercal,0,1,Região Administrativa,homicidios,2023,2
+Fercal,0,1,Região Administrativa,homicidios,2024,3
+Gama,-30,0,Região Administrativa,homicidios,2015,38
+Gama,-30,0,Região Administrativa,homicidios,2016,40
+Gama,-30,0,Região Administrativa,homicidios,2017,38
+Gama,-30,0,Região Administrativa,homicidios,2018,25
+Gama,-30,0,Região Administrativa,homicidios,2019,17
+Gama,-30,0,Região Administrativa,homicidios,2020,16
+Gama,-30,0,Região Administrativa,homicidios,2021,12
+Gama,-30,0,Região Administrativa,homicidios,2022,6
+Gama,-30,0,Região Administrativa,homicidios,2023,8
+Gama,-30,0,Região Administrativa,homicidios,2024,8
+Guará,-13,-1,Região Administrativa,homicidios,2015,15
+Guará,-13,-1,Região Administrativa,homicidios,2016,4
+Guará,-13,-1,Região Administrativa,homicidios,2017,3
+Guará,-13,-1,Região Administrativa,homicidios,2018,5
+Guará,-13,-1,Região Administrativa,homicidios,2019,1
+Guará,-13,-1,Região Administrativa,homicidios,2020,3
+Guará,-13,-1,Região Administrativa,homicidios,2021,9
+Guará,-13,-1,Região Administrativa,homicidios,2022,4
+Guará,-13,-1,Região Administrativa,homicidios,2023,3
+Guará,-13,-1,Região Administrativa,homicidios,2024,2
+Itapoã,-22,-5,Região Administrativa,homicidios,2015,30
+Itapoã,-22,-5,Região Administrativa,homicidios,2016,22
+Itapoã,-22,-5,Região Administrativa,homicidios,2017,21
+Itapoã,-22,-5,Região Administrativa,homicidios,2018,19
+Itapoã,-22,-5,Região Administrativa,homicidios,2019,24
+Itapoã,-22,-5,Região Administrativa,homicidios,2020,15
+Itapoã,-22,-5,Região Administrativa,homicidios,2021,12
+Itapoã,-22,-5,Região Administrativa,homicidios,2022,10
+Itapoã,-22,-5,Região Administrativa,homicidios,2023,13
+Itapoã,-22,-5,Região Administrativa,homicidios,2024,8
+Jardim Botânico,0,0,Região Administrativa,homicidios,2015,0
+Jardim Botânico,0,0,Região Administrativa,homicidios,2016,1
+Jardim Botânico,0,0,Região Administrativa,homicidios,2017,0
+Jardim Botânico,0,0,Região Administrativa,homicidios,2018,0
+Jardim Botânico,0,0,Região Administrativa,homicidios,2019,0
+Jardim Botânico,0,0,Região Administrativa,homicidios,2020,0
+Jardim Botânico,0,0,Região Administrativa,homicidios,2021,1
+Jardim Botânico,0,0,Região Administrativa,homicidios,2022,0
+Jardim Botânico,0,0,Região Administrativa,homicidios,2023,0
+Jardim Botânico,0,0,Região Administrativa,homicidios,2024,0
+Lago Norte,-4,-1,Região Administrativa,homicidios,2015,5
+Lago Norte,-4,-1,Região Administrativa,homicidios,2016,1
+Lago Norte,-4,-1,Região Administrativa,homicidios,2017,1
+Lago Norte,-4,-1,Região Administrativa,homicidios,2018,1
+Lago Norte,-4,-1,Região Administrativa,homicidios,2019,2
+Lago Norte,-4,-1,Região Administrativa,homicidios,2020,1
+Lago Norte,-4,-1,Região Administrativa,homicidios,2021,2
+Lago Norte,-4,-1,Região Administrativa,homicidios,2022,2
+Lago Norte,-4,-1,Região Administrativa,homicidios,2023,2
+Lago Norte,-4,-1,Região Administrativa,homicidios,2024,1
+Lago Sul,1,1,Região Administrativa,homicidios,2015,0
+Lago Sul,1,1,Região Administrativa,homicidios,2016,1
+Lago Sul,1,1,Região Administrativa,homicidios,2017,1
+Lago Sul,1,1,Região Administrativa,homicidios,2018,1
+Lago Sul,1,1,Região Administrativa,homicidios,2019,0
+Lago Sul,1,1,Região Administrativa,homicidios,2020,0
+Lago Sul,1,1,Região Administrativa,homicidios,2021,0
+Lago Sul,1,1,Região Administrativa,homicidios,2022,0
+Lago Sul,1,1,Região Administrativa,homicidios,2023,0
+Lago Sul,1,1,Região Administrativa,homicidios,2024,1
+Núcleo Bandeirante,1,2,Região Administrativa,homicidios,2015,1
+Núcleo Bandeirante,1,2,Região Administrativa,homicidios,2016,3
+Núcleo Bandeirante,1,2,Região Administrativa,homicidios,2017,1
+Núcleo Bandeirante,1,2,Região Administrativa,homicidios,2018,3
+Núcleo Bandeirante,1,2,Região Administrativa,homicidios,2019,0
+Núcleo Bandeirante,1,2,Região Administrativa,homicidios,2020,2
+Núcleo Bandeirante,1,2,Região Administrativa,homicidios,2021,2
+Núcleo Bandeirante,1,2,Região Administrativa,homicidios,2022,3
+Núcleo Bandeirante,1,2,Região Administrativa,homicidios,2023,0
+Núcleo Bandeirante,1,2,Região Administrativa,homicidios,2024,2
+Paranoá,-19,-6,Região Administrativa,homicidios,2015,24
+Paranoá,-19,-6,Região Administrativa,homicidios,2016,32
+Paranoá,-19,-6,Região Administrativa,homicidios,2017,11
+Paranoá,-19,-6,Região Administrativa,homicidios,2018,11
+Paranoá,-19,-6,Região Administrativa,homicidios,2019,14
+Paranoá,-19,-6,Região Administrativa,homicidios,2020,15
+Paranoá,-19,-6,Região Administrativa,homicidios,2021,14
+Paranoá,-19,-6,Região Administrativa,homicidios,2022,9
+Paranoá,-19,-6,Região Administrativa,homicidios,2023,11
+Paranoá,-19,-6,Região Administrativa,homicidios,2024,5
+Park Way,0,0,Região Administrativa,homicidios,2015,1
+Park Way,0,0,Região Administrativa,homicidios,2016,0
+Park Way,0,0,Região Administrativa,homicidios,2017,0
+Park Way,0,0,Região Administrativa,homicidios,2018,1
+Park Way,0,0,Região Administrativa,homicidios,2019,0
+Park Way,0,0,Região Administrativa,homicidios,2020,2
+Park Way,0,0,Região Administrativa,homicidios,2021,0
+Park Way,0,0,Região Administrativa,homicidios,2022,1
+Park Way,0,0,Região Administrativa,homicidios,2023,1
+Park Way,0,0,Região Administrativa,homicidios,2024,1
+Planaltina,-39,-1,Região Administrativa,homicidios,2015,57
+Planaltina,-39,-1,Região Administrativa,homicidios,2016,64
+Planaltina,-39,-1,Região Administrativa,homicidios,2017,59
+Planaltina,-39,-1,Região Administrativa,homicidios,2018,48
+Planaltina,-39,-1,Região Administrativa,homicidios,2019,39
+Planaltina,-39,-1,Região Administrativa,homicidios,2020,37
+Planaltina,-39,-1,Região Administrativa,homicidios,2021,13
+Planaltina,-39,-1,Região Administrativa,homicidios,2022,19
+Planaltina,-39,-1,Região Administrativa,homicidios,2023,19
+Planaltina,-39,-1,Região Administrativa,homicidios,2024,18
+Recanto das Emas,-27,6,Região Administrativa,homicidios,2015,39
+Recanto das Emas,-27,6,Região Administrativa,homicidios,2016,48
+Recanto das Emas,-27,6,Região Administrativa,homicidios,2017,19
+Recanto das Emas,-27,6,Região Administrativa,homicidios,2018,21
+Recanto das Emas,-27,6,Região Administrativa,homicidios,2019,17
+Recanto das Emas,-27,6,Região Administrativa,homicidios,2020,23
+Recanto das Emas,-27,6,Região Administrativa,homicidios,2021,11
+Recanto das Emas,-27,6,Região Administrativa,homicidios,2022,23
+Recanto das Emas,-27,6,Região Administrativa,homicidios,2023,6
+Recanto das Emas,-27,6,Região Administrativa,homicidios,2024,12
+Riacho Fundo,-5,0,Região Administrativa,homicidios,2015,5
+Riacho Fundo,-5,0,Região Administrativa,homicidios,2016,3
+Riacho Fundo,-5,0,Região Administrativa,homicidios,2017,5
+Riacho Fundo,-5,0,Região Administrativa,homicidios,2018,3
+Riacho Fundo,-5,0,Região Administrativa,homicidios,2019,3
+Riacho Fundo,-5,0,Região Administrativa,homicidios,2020,2
+Riacho Fundo,-5,0,Região Administrativa,homicidios,2021,2
+Riacho Fundo,-5,0,Região Administrativa,homicidios,2022,3
+Riacho Fundo,-5,0,Região Administrativa,homicidios,2023,0
+Riacho Fundo,-5,0,Região Administrativa,homicidios,2024,0
+Riacho Fundo II,2,7,Região Administrativa,homicidios,2015,5
+Riacho Fundo II,2,7,Região Administrativa,homicidios,2016,12
+Riacho Fundo II,2,7,Região Administrativa,homicidios,2017,7
+Riacho Fundo II,2,7,Região Administrativa,homicidios,2018,7
+Riacho Fundo II,2,7,Região Administrativa,homicidios,2019,8
+Riacho Fundo II,2,7,Região Administrativa,homicidios,2020,7
+Riacho Fundo II,2,7,Região Administrativa,homicidios,2021,10
+Riacho Fundo II,2,7,Região Administrativa,homicidios,2022,4
+Riacho Fundo II,2,7,Região Administrativa,homicidios,2023,0
+Riacho Fundo II,2,7,Região Administrativa,homicidios,2024,7
+SCIA/Estrutural,-15,-5,Região Administrativa,homicidios,2015,24
+SCIA/Estrutural,-15,-5,Região Administrativa,homicidios,2016,19
+SCIA/Estrutural,-15,-5,Região Administrativa,homicidios,2017,19
+SCIA/Estrutural,-15,-5,Região Administrativa,homicidios,2018,20
+SCIA/Estrutural,-15,-5,Região Administrativa,homicidios,2019,19
+SCIA/Estrutural,-15,-5,Região Administrativa,homicidios,2020,12
+SCIA/Estrutural,-15,-5,Região Administrativa,homicidios,2021,19
+SCIA/Estrutural,-15,-5,Região Administrativa,homicidios,2022,12
+SCIA/Estrutural,-15,-5,Região Administrativa,homicidios,2023,14
+SCIA/Estrutural,-15,-5,Região Administrativa,homicidios,2024,9
+SIA,3,3,Região Administrativa,homicidios,2015,1
+SIA,3,3,Região Administrativa,homicidios,2016,3
+SIA,3,3,Região Administrativa,homicidios,2017,4
+SIA,3,3,Região Administrativa,homicidios,2018,4
+SIA,3,3,Região Administrativa,homicidios,2019,3
+SIA,3,3,Região Administrativa,homicidios,2020,2
+SIA,3,3,Região Administrativa,homicidios,2021,1
+SIA,3,3,Região Administrativa,homicidios,2022,1
+SIA,3,3,Região Administrativa,homicidios,2023,1
+SIA,3,3,Região Administrativa,homicidios,2024,4
+Samambaia,-27,-10,Região Administrativa,homicidios,2015,39
+Samambaia,-27,-10,Região Administrativa,homicidios,2016,45
+Samambaia,-27,-10,Região Administrativa,homicidios,2017,48
+Samambaia,-27,-10,Região Administrativa,homicidios,2018,31
+Samambaia,-27,-10,Região Administrativa,homicidios,2019,43
+Samambaia,-27,-10,Região Administrativa,homicidios,2020,40
+Samambaia,-27,-10,Região Administrativa,homicidios,2021,16
+Samambaia,-27,-10,Região Administrativa,homicidios,2022,18
+Samambaia,-27,-10,Região Administrativa,homicidios,2023,22
+Samambaia,-27,-10,Região Administrativa,homicidios,2024,12
+Santa Maria,-41,-3,Região Administrativa,homicidios,2015,53
+Santa Maria,-41,-3,Região Administrativa,homicidios,2016,35
+Santa Maria,-41,-3,Região Administrativa,homicidios,2017,36
+Santa Maria,-41,-3,Região Administrativa,homicidios,2018,18
+Santa Maria,-41,-3,Região Administrativa,homicidios,2019,18
+Santa Maria,-41,-3,Região Administrativa,homicidios,2020,18
+Santa Maria,-41,-3,Região Administrativa,homicidios,2021,17
+Santa Maria,-41,-3,Região Administrativa,homicidios,2022,15
+Santa Maria,-41,-3,Região Administrativa,homicidios,2023,15
+Santa Maria,-41,-3,Região Administrativa,homicidios,2024,12
+Sobradinho,-11,5,Região Administrativa,homicidios,2015,20
+Sobradinho,-11,5,Região Administrativa,homicidios,2016,15
+Sobradinho,-11,5,Região Administrativa,homicidios,2017,15
+Sobradinho,-11,5,Região Administrativa,homicidios,2018,12
+Sobradinho,-11,5,Região Administrativa,homicidios,2019,15
+Sobradinho,-11,5,Região Administrativa,homicidios,2020,6
+Sobradinho,-11,5,Região Administrativa,homicidios,2021,4
+Sobradinho,-11,5,Região Administrativa,homicidios,2022,3
+Sobradinho,-11,5,Região Administrativa,homicidios,2023,4
+Sobradinho,-11,5,Região Administrativa,homicidios,2024,9
+Sobradinho II,-13,1,Região Administrativa,homicidios,2015,20
+Sobradinho II,-13,1,Região Administrativa,homicidios,2016,23
+Sobradinho II,-13,1,Região Administrativa,homicidios,2017,24
+Sobradinho II,-13,1,Região Administrativa,homicidios,2018,13
+Sobradinho II,-13,1,Região Administrativa,homicidios,2019,8
+Sobradinho II,-13,1,Região Administrativa,homicidios,2020,8
+Sobradinho II,-13,1,Região Administrativa,homicidios,2021,6
+Sobradinho II,-13,1,Região Administrativa,homicidios,2022,8
+Sobradinho II,-13,1,Região Administrativa,homicidios,2023,6
+Sobradinho II,-13,1,Região Administrativa,homicidios,2024,7
+Sol Nascente/Pôr do Sol,11,-1,Região Administrativa,homicidios,2015,0
+Sol Nascente/Pôr do Sol,11,-1,Região Administrativa,homicidios,2016,0
+Sol Nascente/Pôr do Sol,11,-1,Região Administrativa,homicidios,2017,0
+Sol Nascente/Pôr do Sol,11,-1,Região Administrativa,homicidios,2018,0
+Sol Nascente/Pôr do Sol,11,-1,Região Administrativa,homicidios,2019,0
+Sol Nascente/Pôr do Sol,11,-1,Região Administrativa,homicidios,2020,22
+Sol Nascente/Pôr do Sol,11,-1,Região Administrativa,homicidios,2021,27
+Sol Nascente/Pôr do Sol,11,-1,Região Administrativa,homicidios,2022,17
+Sol Nascente/Pôr do Sol,11,-1,Região Administrativa,homicidios,2023,12
+Sol Nascente/Pôr do Sol,11,-1,Região Administrativa,homicidios,2024,11
+Sudoeste/Octogonal,0,-1,Região Administrativa,homicidios,2015,0
+Sudoeste/Octogonal,0,-1,Região Administrativa,homicidios,2016,1
+Sudoeste/Octogonal,0,-1,Região Administrativa,homicidios,2017,0
+Sudoeste/Octogonal,0,-1,Região Administrativa,homicidios,2018,0
+Sudoeste/Octogonal,0,-1,Região Administrativa,homicidios,2019,1
+Sudoeste/Octogonal,0,-1,Região Administrativa,homicidios,2020,2
+Sudoeste/Octogonal,0,-1,Região Administrativa,homicidios,2021,0
+Sudoeste/Octogonal,0,-1,Região Administrativa,homicidios,2022,2
+Sudoeste/Octogonal,0,-1,Região Administrativa,homicidios,2023,1
+Sudoeste/Octogonal,0,-1,Região Administrativa,homicidios,2024,0
+São Sebastião,-18,-7,Região Administrativa,homicidios,2015,26
+São Sebastião,-18,-7,Região Administrativa,homicidios,2016,40
+São Sebastião,-18,-7,Região Administrativa,homicidios,2017,30
+São Sebastião,-18,-7,Região Administrativa,homicidios,2018,29
+São Sebastião,-18,-7,Região Administrativa,homicidios,2019,26
+São Sebastião,-18,-7,Região Administrativa,homicidios,2020,17
+São Sebastião,-18,-7,Região Administrativa,homicidios,2021,20
+São Sebastião,-18,-7,Região Administrativa,homicidios,2022,22
+São Sebastião,-18,-7,Região Administrativa,homicidios,2023,15
+São Sebastião,-18,-7,Região Administrativa,homicidios,2024,8
+Taguatinga,-25,-4,Região Administrativa,homicidios,2015,35
+Taguatinga,-25,-4,Região Administrativa,homicidios,2016,27
+Taguatinga,-25,-4,Região Administrativa,homicidios,2017,22
+Taguatinga,-25,-4,Região Administrativa,homicidios,2018,22
+Taguatinga,-25,-4,Região Administrativa,homicidios,2019,14
+Taguatinga,-25,-4,Região Administrativa,homicidios,2020,20
+Taguatinga,-25,-4,Região Administrativa,homicidios,2021,14
+Taguatinga,-25,-4,Região Administrativa,homicidios,2022,15
+Taguatinga,-25,-4,Região Administrativa,homicidios,2023,14
+Taguatinga,-25,-4,Região Administrativa,homicidios,2024,10
+Unidades Prisionais,5,4,Região Administrativa,homicidios,2015,0
+Unidades Prisionais,5,4,Região Administrativa,homicidios,2016,0
+Unidades Prisionais,5,4,Região Administrativa,homicidios,2017,0
+Unidades Prisionais,5,4,Região Administrativa,homicidios,2018,0
+Unidades Prisionais,5,4,Região Administrativa,homicidios,2019,0
+Unidades Prisionais,5,4,Região Administrativa,homicidios,2020,0
+Unidades Prisionais,5,4,Região Administrativa,homicidios,2021,0
+Unidades Prisionais,5,4,Região Administrativa,homicidios,2022,0
+Unidades Prisionais,5,4,Região Administrativa,homicidios,2023,1
+Unidades Prisionais,5,4,Região Administrativa,homicidios,2024,5
+Varjão,0,-1,Região Administrativa,homicidios,2015,0
+Varjão,0,-1,Região Administrativa,homicidios,2016,2
+Varjão,0,-1,Região Administrativa,homicidios,2017,1
+Varjão,0,-1,Região Administrativa,homicidios,2018,1
+Varjão,0,-1,Região Administrativa,homicidios,2019,2
+Varjão,0,-1,Região Administrativa,homicidios,2020,4
+Varjão,0,-1,Região Administrativa,homicidios,2021,1
+Varjão,0,-1,Região Administrativa,homicidios,2022,2
+Varjão,0,-1,Região Administrativa,homicidios,2023,1
+Varjão,0,-1,Região Administrativa,homicidios,2024,0
+Vicente Pires,2,0,Região Administrativa,homicidios,2015,3
+Vicente Pires,2,0,Região Administrativa,homicidios,2016,8
+Vicente Pires,2,0,Região Administrativa,homicidios,2017,6
+Vicente Pires,2,0,Região Administrativa,homicidios,2018,5
+Vicente Pires,2,0,Região Administrativa,homicidios,2019,3
+Vicente Pires,2,0,Região Administrativa,homicidios,2020,8
+Vicente Pires,2,0,Região Administrativa,homicidios,2021,3
+Vicente Pires,2,0,Região Administrativa,homicidios,2022,5
+Vicente Pires,2,0,Região Administrativa,homicidios,2023,5
+Vicente Pires,2,0,Região Administrativa,homicidios,2024,5
+Águas Claras,-10,0,Região Administrativa,homicidios,2015,11
+Águas Claras,-10,0,Região Administrativa,homicidios,2016,3
+Águas Claras,-10,0,Região Administrativa,homicidios,2017,6
+Águas Claras,-10,0,Região Administrativa,homicidios,2018,6
+Águas Claras,-10,0,Região Administrativa,homicidios,2019,8
+Águas Claras,-10,0,Região Administrativa,homicidios,2020,3
+Águas Claras,-10,0,Região Administrativa,homicidios,2021,4
+Águas Claras,-10,0,Região Administrativa,homicidios,2022,0
+Águas Claras,-10,0,Região Administrativa,homicidios,2023,1
+Águas Claras,-10,0,Região Administrativa,homicidios,2024,1
+Arniqueira,0,-1,Região Administrativa,latrocinios,2015,0
+Arniqueira,0,-1,Região Administrativa,latrocinios,2016,0
+Arniqueira,0,-1,Região Administrativa,latrocinios,2017,0
+Arniqueira,0,-1,Região Administrativa,latrocinios,2018,0
+Arniqueira,0,-1,Região Administrativa,latrocinios,2019,0
+Arniqueira,0,-1,Região Administrativa,latrocinios,2020,1
+Arniqueira,0,-1,Região Administrativa,latrocinios,2021,0
+Arniqueira,0,-1,Região Administrativa,latrocinios,2022,1
+Arniqueira,0,-1,Região Administrativa,latrocinios,2023,1
+Arniqueira,0,-1,Região Administrativa,latrocinios,2024,0
+Brasília (Plano Piloto),-1,0,Região Administrativa,latrocinios,2015,1
+Brasília (Plano Piloto),-1,0,Região Administrativa,latrocinios,2016,0
+Brasília (Plano Piloto),-1,0,Região Administrativa,latrocinios,2017,4
+Brasília (Plano Piloto),-1,0,Região Administrativa,latrocinios,2018,1
+Brasília (Plano Piloto),-1,0,Região Administrativa,latrocinios,2019,1
+Brasília (Plano Piloto),-1,0,Região Administrativa,latrocinios,2020,4
+Brasília (Plano Piloto),-1,0,Região Administrativa,latrocinios,2021,0
+Brasília (Plano Piloto),-1,0,Região Administrativa,latrocinios,2022,0
+Brasília (Plano Piloto),-1,0,Região Administrativa,latrocinios,2023,0
+Brasília (Plano Piloto),-1,0,Região Administrativa,latrocinios,2024,0
+Brazlândia,1,1,Região Administrativa,latrocinios,2015,0
+Brazlândia,1,1,Região Administrativa,latrocinios,2016,1
+Brazlândia,1,1,Região Administrativa,latrocinios,2017,3
+Brazlândia,1,1,Região Administrativa,latrocinios,2018,1
+Brazlândia,1,1,Região Administrativa,latrocinios,2019,1
+Brazlândia,1,1,Região Administrativa,latrocinios,2020,1
+Brazlândia,1,1,Região Administrativa,latrocinios,2021,0
+Brazlândia,1,1,Região Administrativa,latrocinios,2022,1
+Brazlândia,1,1,Região Administrativa,latrocinios,2023,0
+Brazlândia,1,1,Região Administrativa,latrocinios,2024,1
+Candangolândia,-1,0,Região Administrativa,latrocinios,2015,1
+Candangolândia,-1,0,Região Administrativa,latrocinios,2016,0
+Candangolândia,-1,0,Região Administrativa,latrocinios,2017,1
+Candangolândia,-1,0,Região Administrativa,latrocinios,2018,0
+Candangolândia,-1,0,Região Administrativa,latrocinios,2019,0
+Candangolândia,-1,0,Região Administrativa,latrocinios,2020,0
+Candangolândia,-1,0,Região Administrativa,latrocinios,2021,0
+Candangolândia,-1,0,Região Administrativa,latrocinios,2022,0
+Candangolândia,-1,0,Região Administrativa,latrocinios,2023,0
+Candangolândia,-1,0,Região Administrativa,latrocinios,2024,0
+Ceilândia,-5,0,Região Administrativa,latrocinios,2015,6
+Ceilândia,-5,0,Região Administrativa,latrocinios,2016,3
+Ceilândia,-5,0,Região Administrativa,latrocinios,2017,8
+Ceilândia,-5,0,Região Administrativa,latrocinios,2018,7
+Ceilândia,-5,0,Região Administrativa,latrocinios,2019,5
+Ceilândia,-5,0,Região Administrativa,latrocinios,2020,3
+Ceilândia,-5,0,Região Administrativa,latrocinios,2021,3
+Ceilândia,-5,0,Região Administrativa,latrocinios,2022,7
+Ceilândia,-5,0,Região Administrativa,latrocinios,2023,1
+Ceilândia,-5,0,Região Administrativa,latrocinios,2024,1
+Cruzeiro,-1,0,Região Administrativa,latrocinios,2015,1
+Cruzeiro,-1,0,Região Administrativa,latrocinios,2016,2
+Cruzeiro,-1,0,Região Administrativa,latrocinios,2017,0
+Cruzeiro,-1,0,Região Administrativa,latrocinios,2018,0
+Cruzeiro,-1,0,Região Administrativa,latrocinios,2019,0
+Cruzeiro,-1,0,Região Administrativa,latrocinios,2020,0
+Cruzeiro,-1,0,Região Administrativa,latrocinios,2021,0
+Cruzeiro,-1,0,Região Administrativa,latrocinios,2022,0
+Cruzeiro,-1,0,Região Administrativa,latrocinios,2023,0
+Cruzeiro,-1,0,Região Administrativa,latrocinios,2024,0
+Distrito Federal,-38,-10,Distrito Federal,latrocinios,2015,46
+Distrito Federal,-38,-10,Distrito Federal,latrocinios,2016,47
+Distrito Federal,-38,-10,Distrito Federal,latrocinios,2017,36
+Distrito Federal,-38,-10,Distrito Federal,latrocinios,2018,32
+Distrito Federal,-38,-10,Distrito Federal,latrocinios,2019,25
+Distrito Federal,-38,-10,Distrito Federal,latrocinios,2020,32
+Distrito Federal,-38,-10,Distrito Federal,latrocinios,2021,23
+Distrito Federal,-38,-10,Distrito Federal,latrocinios,2022,20
+Distrito Federal,-38,-10,Distrito Federal,latrocinios,2023,18
+Distrito Federal,-38,-10,Distrito Federal,latrocinios,2024,8
+Fercal,1,-1,Região Administrativa,latrocinios,2015,0
+Fercal,1,-1,Região Administrativa,latrocinios,2016,0
+Fercal,1,-1,Região Administrativa,latrocinios,2017,1
+Fercal,1,-1,Região Administrativa,latrocinios,2018,0
+Fercal,1,-1,Região Administrativa,latrocinios,2019,0
+Fercal,1,-1,Região Administrativa,latrocinios,2020,0
+Fercal,1,-1,Região Administrativa,latrocinios,2021,0
+Fercal,1,-1,Região Administrativa,latrocinios,2022,0
+Fercal,1,-1,Região Administrativa,latrocinios,2023,2
+Fercal,1,-1,Região Administrativa,latrocinios,2024,1
+Gama,-3,0,Região Administrativa,latrocinios,2015,3
+Gama,-3,0,Região Administrativa,latrocinios,2016,3
+Gama,-3,0,Região Administrativa,latrocinios,2017,1
+Gama,-3,0,Região Administrativa,latrocinios,2018,3
+Gama,-3,0,Região Administrativa,latrocinios,2019,1
+Gama,-3,0,Região Administrativa,latrocinios,2020,1
+Gama,-3,0,Região Administrativa,latrocinios,2021,2
+Gama,-3,0,Região Administrativa,latrocinios,2022,0
+Gama,-3,0,Região Administrativa,latrocinios,2023,0
+Gama,-3,0,Região Administrativa,latrocinios,2024,0
+Guará,0,0,Região Administrativa,latrocinios,2015,0
+Guará,0,0,Região Administrativa,latrocinios,2016,2
+Guará,0,0,Região Administrativa,latrocinios,2017,2
+Guará,0,0,Região Administrativa,latrocinios,2018,0
+Guará,0,0,Região Administrativa,latrocinios,2019,0
+Guará,0,0,Região Administrativa,latrocinios,2020,0
+Guará,0,0,Região Administrativa,latrocinios,2021,1
+Guará,0,0,Região Administrativa,latrocinios,2022,0
+Guará,0,0,Região Administrativa,latrocinios,2023,0
+Guará,0,0,Região Administrativa,latrocinios,2024,0
+Itapoã,1,0,Região Administrativa,latrocinios,2015,0
+Itapoã,1,0,Região Administrativa,latrocinios,2016,3
+Itapoã,1,0,Região Administrativa,latrocinios,2017,2
+Itapoã,1,0,Região Administrativa,latrocinios,2018,1
+Itapoã,1,0,Região Administrativa,latrocinios,2019,2
+Itapoã,1,0,Região Administrativa,latrocinios,2020,0
+Itapoã,1,0,Região Administrativa,latrocinios,2021,2
+Itapoã,1,0,Região Administrativa,latrocinios,2022,0
+Itapoã,1,0,Região Administrativa,latrocinios,2023,1
+Itapoã,1,0,Região Administrativa,latrocinios,2024,1
+Jardim Botânico,0,0,Região Administrativa,latrocinios,2015,0
+Jardim Botânico,0,0,Região Administrativa,latrocinios,2016,0
+Jardim Botânico,0,0,Região Administrativa,latrocinios,2017,0
+Jardim Botânico,0,0,Região Administrativa,latrocinios,2018,0
+Jardim Botânico,0,0,Região Administrativa,latrocinios,2019,0
+Jardim Botânico,0,0,Região Administrativa,latrocinios,2020,0
+Jardim Botânico,0,0,Região Administrativa,latrocinios,2021,0
+Jardim Botânico,0,0,Região Administrativa,latrocinios,2022,0
+Jardim Botânico,0,0,Região Administrativa,latrocinios,2023,0
+Jardim Botânico,0,0,Região Administrativa,latrocinios,2024,0
+Lago Norte,0,0,Região Administrativa,latrocinios,2015,0
+Lago Norte,0,0,Região Administrativa,latrocinios,2016,0
+Lago Norte,0,0,Região Administrativa,latrocinios,2017,0
+Lago Norte,0,0,Região Administrativa,latrocinios,2018,0
+Lago Norte,0,0,Região Administrativa,latrocinios,2019,0
+Lago Norte,0,0,Região Administrativa,latrocinios,2020,0
+Lago Norte,0,0,Região Administrativa,latrocinios,2021,1
+Lago Norte,0,0,Região Administrativa,latrocinios,2022,0
+Lago Norte,0,0,Região Administrativa,latrocinios,2023,0
+Lago Norte,0,0,Região Administrativa,latrocinios,2024,0
+Lago Sul,-1,0,Região Administrativa,latrocinios,2015,1
+Lago Sul,-1,0,Região Administrativa,latrocinios,2016,0
+Lago Sul,-1,0,Região Administrativa,latrocinios,2017,0
+Lago Sul,-1,0,Região Administrativa,latrocinios,2018,2
+Lago Sul,-1,0,Região Administrativa,latrocinios,2019,0
+Lago Sul,-1,0,Região Administrativa,latrocinios,2020,0
+Lago Sul,-1,0,Região Administrativa,latrocinios,2021,0
+Lago Sul,-1,0,Região Administrativa,latrocinios,2022,0
+Lago Sul,-1,0,Região Administrativa,latrocinios,2023,0
+Lago Sul,-1,0,Região Administrativa,latrocinios,2024,0
+Núcleo Bandeirante,0,0,Região Administrativa,latrocinios,2015,0
+Núcleo Bandeirante,0,0,Região Administrativa,latrocinios,2016,2
+Núcleo Bandeirante,0,0,Região Administrativa,latrocinios,2017,0
+Núcleo Bandeirante,0,0,Região Administrativa,latrocinios,2018,0
+Núcleo Bandeirante,0,0,Região Administrativa,latrocinios,2019,0
+Núcleo Bandeirante,0,0,Região Administrativa,latrocinios,2020,0
+Núcleo Bandeirante,0,0,Região Administrativa,latrocinios,2021,0
+Núcleo Bandeirante,0,0,Região Administrativa,latrocinios,2022,1
+Núcleo Bandeirante,0,0,Região Administrativa,latrocinios,2023,0
+Núcleo Bandeirante,0,0,Região Administrativa,latrocinios,2024,0
+Paranoá,-1,0,Região Administrativa,latrocinios,2015,1
+Paranoá,-1,0,Região Administrativa,latrocinios,2016,2
+Paranoá,-1,0,Região Administrativa,latrocinios,2017,1
+Paranoá,-1,0,Região Administrativa,latrocinios,2018,2
+Paranoá,-1,0,Região Administrativa,latrocinios,2019,0
+Paranoá,-1,0,Região Administrativa,latrocinios,2020,4
+Paranoá,-1,0,Região Administrativa,latrocinios,2021,1
+Paranoá,-1,0,Região Administrativa,latrocinios,2022,0
+Paranoá,-1,0,Região Administrativa,latrocinios,2023,0
+Paranoá,-1,0,Região Administrativa,latrocinios,2024,0
+Park Way,-1,0,Região Administrativa,latrocinios,2015,1
+Park Way,-1,0,Região Administrativa,latrocinios,2016,0
+Park Way,-1,0,Região Administrativa,latrocinios,2017,1
+Park Way,-1,0,Região Administrativa,latrocinios,2018,0
+Park Way,-1,0,Região Administrativa,latrocinios,2019,0
+Park Way,-1,0,Região Administrativa,latrocinios,2020,0
+Park Way,-1,0,Região Administrativa,latrocinios,2021,0
+Park Way,-1,0,Região Administrativa,latrocinios,2022,0
+Park Way,-1,0,Região Administrativa,latrocinios,2023,0
+Park Way,-1,0,Região Administrativa,latrocinios,2024,0
+Planaltina,-4,-1,Região Administrativa,latrocinios,2015,4
+Planaltina,-4,-1,Região Administrativa,latrocinios,2016,2
+Planaltina,-4,-1,Região Administrativa,latrocinios,2017,2
+Planaltina,-4,-1,Região Administrativa,latrocinios,2018,1
+Planaltina,-4,-1,Região Administrativa,latrocinios,2019,3
+Planaltina,-4,-1,Região Administrativa,latrocinios,2020,2
+Planaltina,-4,-1,Região Administrativa,latrocinios,2021,2
+Planaltina,-4,-1,Região Administrativa,latrocinios,2022,2
+Planaltina,-4,-1,Região Administrativa,latrocinios,2023,1
+Planaltina,-4,-1,Região Administrativa,latrocinios,2024,0
+Recanto das Emas,-2,-1,Região Administrativa,latrocinios,2015,2
+Recanto das Emas,-2,-1,Região Administrativa,latrocinios,2016,4
+Recanto das Emas,-2,-1,Região Administrativa,latrocinios,2017,1
+Recanto das Emas,-2,-1,Região Administrativa,latrocinios,2018,1
+Recanto das Emas,-2,-1,Região Administrativa,latrocinios,2019,5
+Recanto das Emas,-2,-1,Região Administrativa,latrocinios,2020,3
+Recanto das Emas,-2,-1,Região Administrativa,latrocinios,2021,1
+Recanto das Emas,-2,-1,Região Administrativa,latrocinios,2022,0
+Recanto das Emas,-2,-1,Região Administrativa,latrocinios,2023,1
+Recanto das Emas,-2,-1,Região Administrativa,latrocinios,2024,0
+Riacho Fundo,0,-1,Região Administrativa,latrocinios,2015,0
+Riacho Fundo,0,-1,Região Administrativa,latrocinios,2016,0
+Riacho Fundo,0,-1,Região Administrativa,latrocinios,2017,0
+Riacho Fundo,0,-1,Região Administrativa,latrocinios,2018,0
+Riacho Fundo,0,-1,Região Administrativa,latrocinios,2019,0
+Riacho Fundo,0,-1,Região Administrativa,latrocinios,2020,0
+Riacho Fundo,0,-1,Região Administrativa,latrocinios,2021,0
+Riacho Fundo,0,-1,Região Administrativa,latrocinios,2022,0
+Riacho Fundo,0,-1,Região Administrativa,latrocinios,2023,1
+Riacho Fundo,0,-1,Região Administrativa,latrocinios,2024,0
+Riacho Fundo II,0,0,Região Administrativa,latrocinios,2015,0
+Riacho Fundo II,0,0,Região Administrativa,latrocinios,2016,0
+Riacho Fundo II,0,0,Região Administrativa,latrocinios,2017,0
+Riacho Fundo II,0,0,Região Administrativa,latrocinios,2018,0
+Riacho Fundo II,0,0,Região Administrativa,latrocinios,2019,0
+Riacho Fundo II,0,0,Região Administrativa,latrocinios,2020,0
+Riacho Fundo II,0,0,Região Administrativa,latrocinios,2021,0
+Riacho Fundo II,0,0,Região Administrativa,latrocinios,2022,1
+Riacho Fundo II,0,0,Região Administrativa,latrocinios,2023,0
+Riacho Fundo II,0,0,Região Administrativa,latrocinios,2024,0
+SCIA/Estrutural,-1,-1,Região Administrativa,latrocinios,2015,1
+SCIA/Estrutural,-1,-1,Região Administrativa,latrocinios,2016,1
+SCIA/Estrutural,-1,-1,Região Administrativa,latrocinios,2017,1
+SCIA/Estrutural,-1,-1,Região Administrativa,latrocinios,2018,0
+SCIA/Estrutural,-1,-1,Região Administrativa,latrocinios,2019,0
+SCIA/Estrutural,-1,-1,Região Administrativa,latrocinios,2020,0
+SCIA/Estrutural,-1,-1,Região Administrativa,latrocinios,2021,0
+SCIA/Estrutural,-1,-1,Região Administrativa,latrocinios,2022,0
+SCIA/Estrutural,-1,-1,Região Administrativa,latrocinios,2023,1
+SCIA/Estrutural,-1,-1,Região Administrativa,latrocinios,2024,0
+SIA,0,0,Região Administrativa,latrocinios,2015,0
+SIA,0,0,Região Administrativa,latrocinios,2016,0
+SIA,0,0,Região Administrativa,latrocinios,2017,0
+SIA,0,0,Região Administrativa,latrocinios,2018,0
+SIA,0,0,Região Administrativa,latrocinios,2019,1
+SIA,0,0,Região Administrativa,latrocinios,2020,1
+SIA,0,0,Região Administrativa,latrocinios,2021,0
+SIA,0,0,Região Administrativa,latrocinios,2022,0
+SIA,0,0,Região Administrativa,latrocinios,2023,0
+SIA,0,0,Região Administrativa,latrocinios,2024,0
+Samambaia,-7,-1,Região Administrativa,latrocinios,2015,8
+Samambaia,-7,-1,Região Administrativa,latrocinios,2016,7
+Samambaia,-7,-1,Região Administrativa,latrocinios,2017,3
+Samambaia,-7,-1,Região Administrativa,latrocinios,2018,2
+Samambaia,-7,-1,Região Administrativa,latrocinios,2019,0
+Samambaia,-7,-1,Região Administrativa,latrocinios,2020,1
+Samambaia,-7,-1,Região Administrativa,latrocinios,2021,2
+Samambaia,-7,-1,Região Administrativa,latrocinios,2022,2
+Samambaia,-7,-1,Região Administrativa,latrocinios,2023,2
+Samambaia,-7,-1,Região Administrativa,latrocinios,2024,1
+Santa Maria,-6,-2,Região Administrativa,latrocinios,2015,6
+Santa Maria,-6,-2,Região Administrativa,latrocinios,2016,4
+Santa Maria,-6,-2,Região Administrativa,latrocinios,2017,1
+Santa Maria,-6,-2,Região Administrativa,latrocinios,2018,1
+Santa Maria,-6,-2,Região Administrativa,latrocinios,2019,0
+Santa Maria,-6,-2,Região Administrativa,latrocinios,2020,1
+Santa Maria,-6,-2,Região Administrativa,latrocinios,2021,0
+Santa Maria,-6,-2,Região Administrativa,latrocinios,2022,2
+Santa Maria,-6,-2,Região Administrativa,latrocinios,2023,2
+Santa Maria,-6,-2,Região Administrativa,latrocinios,2024,0
+Sobradinho,-2,-1,Região Administrativa,latrocinios,2015,2
+Sobradinho,-2,-1,Região Administrativa,latrocinios,2016,2
+Sobradinho,-2,-1,Região Administrativa,latrocinios,2017,1
+Sobradinho,-2,-1,Região Administrativa,latrocinios,2018,1
+Sobradinho,-2,-1,Região Administrativa,latrocinios,2019,3
+Sobradinho,-2,-1,Região Administrativa,latrocinios,2020,1
+Sobradinho,-2,-1,Região Administrativa,latrocinios,2021,0
+Sobradinho,-2,-1,Região Administrativa,latrocinios,2022,0
+Sobradinho,-2,-1,Região Administrativa,latrocinios,2023,1
+Sobradinho,-2,-1,Região Administrativa,latrocinios,2024,0
+Sobradinho II,-2,0,Região Administrativa,latrocinios,2015,2
+Sobradinho II,-2,0,Região Administrativa,latrocinios,2016,1
+Sobradinho II,-2,0,Região Administrativa,latrocinios,2017,0
+Sobradinho II,-2,0,Região Administrativa,latrocinios,2018,2
+Sobradinho II,-2,0,Região Administrativa,latrocinios,2019,0
+Sobradinho II,-2,0,Região Administrativa,latrocinios,2020,0
+Sobradinho II,-2,0,Região Administrativa,latrocinios,2021,0
+Sobradinho II,-2,0,Região Administrativa,latrocinios,2022,1
+Sobradinho II,-2,0,Região Administrativa,latrocinios,2023,0
+Sobradinho II,-2,0,Região Administrativa,latrocinios,2024,0
+Sol Nascente/Pôr do Sol,0,-1,Região Administrativa,latrocinios,2015,0
+Sol Nascente/Pôr do Sol,0,-1,Região Administrativa,latrocinios,2016,0
+Sol Nascente/Pôr do Sol,0,-1,Região Administrativa,latrocinios,2017,0
+Sol Nascente/Pôr do Sol,0,-1,Região Administrativa,latrocinios,2018,0
+Sol Nascente/Pôr do Sol,0,-1,Região Administrativa,latrocinios,2019,0
+Sol Nascente/Pôr do Sol,0,-1,Região Administrativa,latrocinios,2020,4
+Sol Nascente/Pôr do Sol,0,-1,Região Administrativa,latrocinios,2021,3
+Sol Nascente/Pôr do Sol,0,-1,Região Administrativa,latrocinios,2022,0
+Sol Nascente/Pôr do Sol,0,-1,Região Administrativa,latrocinios,2023,1
+Sol Nascente/Pôr do Sol,0,-1,Região Administrativa,latrocinios,2024,0
+Sudoeste/Octogonal,0,0,Região Administrativa,latrocinios,2015,0
+Sudoeste/Octogonal,0,0,Região Administrativa,latrocinios,2016,0
+Sudoeste/Octogonal,0,0,Região Administrativa,latrocinios,2017,0
+Sudoeste/Octogonal,0,0,Região Administrativa,latrocinios,2018,0
+Sudoeste/Octogonal,0,0,Região Administrativa,latrocinios,2019,0
+Sudoeste/Octogonal,0,0,Região Administrativa,latrocinios,2020,0
+Sudoeste/Octogonal,0,0,Região Administrativa,latrocinios,2021,0
+Sudoeste/Octogonal,0,0,Região Administrativa,latrocinios,2022,0
+Sudoeste/Octogonal,0,0,Região Administrativa,latrocinios,2023,0
+Sudoeste/Octogonal,0,0,Região Administrativa,latrocinios,2024,0
+São Sebastião,0,-1,Região Administrativa,latrocinios,2015,0
+São Sebastião,0,-1,Região Administrativa,latrocinios,2016,4
+São Sebastião,0,-1,Região Administrativa,latrocinios,2017,1
+São Sebastião,0,-1,Região Administrativa,latrocinios,2018,0
+São Sebastião,0,-1,Região Administrativa,latrocinios,2019,0
+São Sebastião,0,-1,Região Administrativa,latrocinios,2020,1
+São Sebastião,0,-1,Região Administrativa,latrocinios,2021,3
+São Sebastião,0,-1,Região Administrativa,latrocinios,2022,2
+São Sebastião,0,-1,Região Administrativa,latrocinios,2023,1
+São Sebastião,0,-1,Região Administrativa,latrocinios,2024,0
+Taguatinga,-3,0,Região Administrativa,latrocinios,2015,5
+Taguatinga,-3,0,Região Administrativa,latrocinios,2016,4
+Taguatinga,-3,0,Região Administrativa,latrocinios,2017,1
+Taguatinga,-3,0,Região Administrativa,latrocinios,2018,4
+Taguatinga,-3,0,Região Administrativa,latrocinios,2019,3
+Taguatinga,-3,0,Região Administrativa,latrocinios,2020,3
+Taguatinga,-3,0,Região Administrativa,latrocinios,2021,2
+Taguatinga,-3,0,Região Administrativa,latrocinios,2022,0
+Taguatinga,-3,0,Região Administrativa,latrocinios,2023,2
+Taguatinga,-3,0,Região Administrativa,latrocinios,2024,2
+Varjão,0,0,Região Administrativa,latrocinios,2015,0
+Varjão,0,0,Região Administrativa,latrocinios,2016,0
+Varjão,0,0,Região Administrativa,latrocinios,2017,0
+Varjão,0,0,Região Administrativa,latrocinios,2018,0
+Varjão,0,0,Região Administrativa,latrocinios,2019,0
+Varjão,0,0,Região Administrativa,latrocinios,2020,0
+Varjão,0,0,Região Administrativa,latrocinios,2021,0
+Varjão,0,0,Região Administrativa,latrocinios,2022,0
+Varjão,0,0,Região Administrativa,latrocinios,2023,0
+Varjão,0,0,Região Administrativa,latrocinios,2024,0
+Vicente Pires,0,1,Região Administrativa,latrocinios,2015,1
+Vicente Pires,0,1,Região Administrativa,latrocinios,2016,0
+Vicente Pires,0,1,Região Administrativa,latrocinios,2017,0
+Vicente Pires,0,1,Região Administrativa,latrocinios,2018,3
+Vicente Pires,0,1,Região Administrativa,latrocinios,2019,0
+Vicente Pires,0,1,Região Administrativa,latrocinios,2020,0
+Vicente Pires,0,1,Região Administrativa,latrocinios,2021,0
+Vicente Pires,0,1,Região Administrativa,latrocinios,2022,0
+Vicente Pires,0,1,Região Administrativa,latrocinios,2023,0
+Vicente Pires,0,1,Região Administrativa,latrocinios,2024,1
+Águas Claras,0,0,Região Administrativa,latrocinios,2015,0
+Águas Claras,0,0,Região Administrativa,latrocinios,2016,0
+Águas Claras,0,0,Região Administrativa,latrocinios,2017,1
+Águas Claras,0,0,Região Administrativa,latrocinios,2018,0
+Águas Claras,0,0,Região Administrativa,latrocinios,2019,0
+Águas Claras,0,0,Região Administrativa,latrocinios,2020,1
+Águas Claras,0,0,Região Administrativa,latrocinios,2021,0
+Águas Claras,0,0,Região Administrativa,latrocinios,2022,0
+Águas Claras,0,0,Região Administrativa,latrocinios,2023,0
+Águas Claras,0,0,Região Administrativa,latrocinios,2024,0
+Arniqueira,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Arniqueira,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Arniqueira,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Arniqueira,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Arniqueira,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Arniqueira,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Arniqueira,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Arniqueira,0,0,Região Administrativa,lesao_seguida_morte,2022,1
+Arniqueira,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Arniqueira,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Brasília (Plano Piloto),1,1,Região Administrativa,lesao_seguida_morte,2015,0
+Brasília (Plano Piloto),1,1,Região Administrativa,lesao_seguida_morte,2016,1
+Brasília (Plano Piloto),1,1,Região Administrativa,lesao_seguida_morte,2017,0
+Brasília (Plano Piloto),1,1,Região Administrativa,lesao_seguida_morte,2018,0
+Brasília (Plano Piloto),1,1,Região Administrativa,lesao_seguida_morte,2019,0
+Brasília (Plano Piloto),1,1,Região Administrativa,lesao_seguida_morte,2020,1
+Brasília (Plano Piloto),1,1,Região Administrativa,lesao_seguida_morte,2021,0
+Brasília (Plano Piloto),1,1,Região Administrativa,lesao_seguida_morte,2022,0
+Brasília (Plano Piloto),1,1,Região Administrativa,lesao_seguida_morte,2023,0
+Brasília (Plano Piloto),1,1,Região Administrativa,lesao_seguida_morte,2024,1
+Brazlândia,1,1,Região Administrativa,lesao_seguida_morte,2015,0
+Brazlândia,1,1,Região Administrativa,lesao_seguida_morte,2016,0
+Brazlândia,1,1,Região Administrativa,lesao_seguida_morte,2017,1
+Brazlândia,1,1,Região Administrativa,lesao_seguida_morte,2018,2
+Brazlândia,1,1,Região Administrativa,lesao_seguida_morte,2019,0
+Brazlândia,1,1,Região Administrativa,lesao_seguida_morte,2020,0
+Brazlândia,1,1,Região Administrativa,lesao_seguida_morte,2021,0
+Brazlândia,1,1,Região Administrativa,lesao_seguida_morte,2022,0
+Brazlândia,1,1,Região Administrativa,lesao_seguida_morte,2023,0
+Brazlândia,1,1,Região Administrativa,lesao_seguida_morte,2024,1
+Candangolândia,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Candangolândia,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Candangolândia,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Candangolândia,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Candangolândia,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Candangolândia,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Candangolândia,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Candangolândia,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Candangolândia,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Candangolândia,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Ceilândia,1,1,Região Administrativa,lesao_seguida_morte,2015,0
+Ceilândia,1,1,Região Administrativa,lesao_seguida_morte,2016,1
+Ceilândia,1,1,Região Administrativa,lesao_seguida_morte,2017,0
+Ceilândia,1,1,Região Administrativa,lesao_seguida_morte,2018,2
+Ceilândia,1,1,Região Administrativa,lesao_seguida_morte,2019,1
+Ceilândia,1,1,Região Administrativa,lesao_seguida_morte,2020,0
+Ceilândia,1,1,Região Administrativa,lesao_seguida_morte,2021,1
+Ceilândia,1,1,Região Administrativa,lesao_seguida_morte,2022,1
+Ceilândia,1,1,Região Administrativa,lesao_seguida_morte,2023,0
+Ceilândia,1,1,Região Administrativa,lesao_seguida_morte,2024,1
+Cruzeiro,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Cruzeiro,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Cruzeiro,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Cruzeiro,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Cruzeiro,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Cruzeiro,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Cruzeiro,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Cruzeiro,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Cruzeiro,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Cruzeiro,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Distrito Federal,7,12,Distrito Federal,lesao_seguida_morte,2015,6
+Distrito Federal,7,12,Distrito Federal,lesao_seguida_morte,2016,5
+Distrito Federal,7,12,Distrito Federal,lesao_seguida_morte,2017,5
+Distrito Federal,7,12,Distrito Federal,lesao_seguida_morte,2018,8
+Distrito Federal,7,12,Distrito Federal,lesao_seguida_morte,2019,6
+Distrito Federal,7,12,Distrito Federal,lesao_seguida_morte,2020,5
+Distrito Federal,7,12,Distrito Federal,lesao_seguida_morte,2021,7
+Distrito Federal,7,12,Distrito Federal,lesao_seguida_morte,2022,5
+Distrito Federal,7,12,Distrito Federal,lesao_seguida_morte,2023,1
+Distrito Federal,7,12,Distrito Federal,lesao_seguida_morte,2024,13
+Fercal,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Fercal,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Fercal,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Fercal,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Fercal,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Fercal,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Fercal,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Fercal,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Fercal,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Fercal,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Gama,1,0,Região Administrativa,lesao_seguida_morte,2015,0
+Gama,1,0,Região Administrativa,lesao_seguida_morte,2016,0
+Gama,1,0,Região Administrativa,lesao_seguida_morte,2017,0
+Gama,1,0,Região Administrativa,lesao_seguida_morte,2018,0
+Gama,1,0,Região Administrativa,lesao_seguida_morte,2019,0
+Gama,1,0,Região Administrativa,lesao_seguida_morte,2020,0
+Gama,1,0,Região Administrativa,lesao_seguida_morte,2021,0
+Gama,1,0,Região Administrativa,lesao_seguida_morte,2022,0
+Gama,1,0,Região Administrativa,lesao_seguida_morte,2023,1
+Gama,1,0,Região Administrativa,lesao_seguida_morte,2024,1
+Guará,-1,0,Região Administrativa,lesao_seguida_morte,2015,1
+Guará,-1,0,Região Administrativa,lesao_seguida_morte,2016,0
+Guará,-1,0,Região Administrativa,lesao_seguida_morte,2017,0
+Guará,-1,0,Região Administrativa,lesao_seguida_morte,2018,0
+Guará,-1,0,Região Administrativa,lesao_seguida_morte,2019,0
+Guará,-1,0,Região Administrativa,lesao_seguida_morte,2020,0
+Guará,-1,0,Região Administrativa,lesao_seguida_morte,2021,0
+Guará,-1,0,Região Administrativa,lesao_seguida_morte,2022,0
+Guará,-1,0,Região Administrativa,lesao_seguida_morte,2023,0
+Guará,-1,0,Região Administrativa,lesao_seguida_morte,2024,0
+Itapoã,-1,0,Região Administrativa,lesao_seguida_morte,2015,1
+Itapoã,-1,0,Região Administrativa,lesao_seguida_morte,2016,0
+Itapoã,-1,0,Região Administrativa,lesao_seguida_morte,2017,0
+Itapoã,-1,0,Região Administrativa,lesao_seguida_morte,2018,0
+Itapoã,-1,0,Região Administrativa,lesao_seguida_morte,2019,0
+Itapoã,-1,0,Região Administrativa,lesao_seguida_morte,2020,0
+Itapoã,-1,0,Região Administrativa,lesao_seguida_morte,2021,0
+Itapoã,-1,0,Região Administrativa,lesao_seguida_morte,2022,0
+Itapoã,-1,0,Região Administrativa,lesao_seguida_morte,2023,0
+Itapoã,-1,0,Região Administrativa,lesao_seguida_morte,2024,0
+Jardim Botânico,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Jardim Botânico,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Jardim Botânico,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Jardim Botânico,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Jardim Botânico,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Jardim Botânico,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Jardim Botânico,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Jardim Botânico,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Jardim Botânico,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Jardim Botânico,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Lago Norte,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Lago Norte,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Lago Norte,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Lago Norte,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Lago Norte,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Lago Norte,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Lago Norte,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Lago Norte,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Lago Norte,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Lago Norte,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Lago Sul,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Lago Sul,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Lago Sul,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Lago Sul,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Lago Sul,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Lago Sul,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Lago Sul,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Lago Sul,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Lago Sul,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Lago Sul,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Núcleo Bandeirante,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Núcleo Bandeirante,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Núcleo Bandeirante,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Núcleo Bandeirante,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Núcleo Bandeirante,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Núcleo Bandeirante,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Núcleo Bandeirante,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Núcleo Bandeirante,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Núcleo Bandeirante,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Núcleo Bandeirante,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Paranoá,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Paranoá,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Paranoá,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Paranoá,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Paranoá,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Paranoá,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Paranoá,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Paranoá,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Paranoá,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Paranoá,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Park Way,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Park Way,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Park Way,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Park Way,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Park Way,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Park Way,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Park Way,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Park Way,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Park Way,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Park Way,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Planaltina,-1,1,Região Administrativa,lesao_seguida_morte,2015,2
+Planaltina,-1,1,Região Administrativa,lesao_seguida_morte,2016,1
+Planaltina,-1,1,Região Administrativa,lesao_seguida_morte,2017,1
+Planaltina,-1,1,Região Administrativa,lesao_seguida_morte,2018,4
+Planaltina,-1,1,Região Administrativa,lesao_seguida_morte,2019,2
+Planaltina,-1,1,Região Administrativa,lesao_seguida_morte,2020,1
+Planaltina,-1,1,Região Administrativa,lesao_seguida_morte,2021,0
+Planaltina,-1,1,Região Administrativa,lesao_seguida_morte,2022,2
+Planaltina,-1,1,Região Administrativa,lesao_seguida_morte,2023,0
+Planaltina,-1,1,Região Administrativa,lesao_seguida_morte,2024,1
+Recanto das Emas,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Recanto das Emas,0,0,Região Administrativa,lesao_seguida_morte,2016,1
+Recanto das Emas,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Recanto das Emas,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Recanto das Emas,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Recanto das Emas,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Recanto das Emas,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Recanto das Emas,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Recanto das Emas,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Recanto das Emas,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Riacho Fundo,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Riacho Fundo,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Riacho Fundo,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Riacho Fundo,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Riacho Fundo,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Riacho Fundo,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Riacho Fundo,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Riacho Fundo,0,0,Região Administrativa,lesao_seguida_morte,2022,1
+Riacho Fundo,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Riacho Fundo,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Riacho Fundo II,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Riacho Fundo II,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Riacho Fundo II,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Riacho Fundo II,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Riacho Fundo II,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Riacho Fundo II,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Riacho Fundo II,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Riacho Fundo II,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Riacho Fundo II,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Riacho Fundo II,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+SCIA/Estrutural,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+SCIA/Estrutural,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+SCIA/Estrutural,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+SCIA/Estrutural,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+SCIA/Estrutural,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+SCIA/Estrutural,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+SCIA/Estrutural,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+SCIA/Estrutural,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+SCIA/Estrutural,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+SCIA/Estrutural,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+SIA,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+SIA,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+SIA,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+SIA,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+SIA,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+SIA,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+SIA,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+SIA,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+SIA,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+SIA,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Samambaia,2,3,Região Administrativa,lesao_seguida_morte,2015,1
+Samambaia,2,3,Região Administrativa,lesao_seguida_morte,2016,0
+Samambaia,2,3,Região Administrativa,lesao_seguida_morte,2017,0
+Samambaia,2,3,Região Administrativa,lesao_seguida_morte,2018,0
+Samambaia,2,3,Região Administrativa,lesao_seguida_morte,2019,0
+Samambaia,2,3,Região Administrativa,lesao_seguida_morte,2020,0
+Samambaia,2,3,Região Administrativa,lesao_seguida_morte,2021,3
+Samambaia,2,3,Região Administrativa,lesao_seguida_morte,2022,0
+Samambaia,2,3,Região Administrativa,lesao_seguida_morte,2023,0
+Samambaia,2,3,Região Administrativa,lesao_seguida_morte,2024,3
+Santa Maria,2,2,Região Administrativa,lesao_seguida_morte,2015,0
+Santa Maria,2,2,Região Administrativa,lesao_seguida_morte,2016,0
+Santa Maria,2,2,Região Administrativa,lesao_seguida_morte,2017,0
+Santa Maria,2,2,Região Administrativa,lesao_seguida_morte,2018,0
+Santa Maria,2,2,Região Administrativa,lesao_seguida_morte,2019,1
+Santa Maria,2,2,Região Administrativa,lesao_seguida_morte,2020,1
+Santa Maria,2,2,Região Administrativa,lesao_seguida_morte,2021,0
+Santa Maria,2,2,Região Administrativa,lesao_seguida_morte,2022,0
+Santa Maria,2,2,Região Administrativa,lesao_seguida_morte,2023,0
+Santa Maria,2,2,Região Administrativa,lesao_seguida_morte,2024,2
+Sobradinho,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Sobradinho,0,0,Região Administrativa,lesao_seguida_morte,2016,1
+Sobradinho,0,0,Região Administrativa,lesao_seguida_morte,2017,1
+Sobradinho,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Sobradinho,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Sobradinho,0,0,Região Administrativa,lesao_seguida_morte,2020,1
+Sobradinho,0,0,Região Administrativa,lesao_seguida_morte,2021,1
+Sobradinho,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Sobradinho,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Sobradinho,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Sobradinho II,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Sobradinho II,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Sobradinho II,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Sobradinho II,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Sobradinho II,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Sobradinho II,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Sobradinho II,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Sobradinho II,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Sobradinho II,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Sobradinho II,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Sol Nascente/Pôr do Sol,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Sol Nascente/Pôr do Sol,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Sol Nascente/Pôr do Sol,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Sol Nascente/Pôr do Sol,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Sol Nascente/Pôr do Sol,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Sol Nascente/Pôr do Sol,0,0,Região Administrativa,lesao_seguida_morte,2020,1
+Sol Nascente/Pôr do Sol,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Sol Nascente/Pôr do Sol,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Sol Nascente/Pôr do Sol,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Sol Nascente/Pôr do Sol,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Sudoeste/Octogonal,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Sudoeste/Octogonal,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Sudoeste/Octogonal,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Sudoeste/Octogonal,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Sudoeste/Octogonal,0,0,Região Administrativa,lesao_seguida_morte,2019,1
+Sudoeste/Octogonal,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Sudoeste/Octogonal,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Sudoeste/Octogonal,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Sudoeste/Octogonal,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Sudoeste/Octogonal,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+São Sebastião,-1,0,Região Administrativa,lesao_seguida_morte,2015,1
+São Sebastião,-1,0,Região Administrativa,lesao_seguida_morte,2016,0
+São Sebastião,-1,0,Região Administrativa,lesao_seguida_morte,2017,0
+São Sebastião,-1,0,Região Administrativa,lesao_seguida_morte,2018,0
+São Sebastião,-1,0,Região Administrativa,lesao_seguida_morte,2019,0
+São Sebastião,-1,0,Região Administrativa,lesao_seguida_morte,2020,0
+São Sebastião,-1,0,Região Administrativa,lesao_seguida_morte,2021,1
+São Sebastião,-1,0,Região Administrativa,lesao_seguida_morte,2022,0
+São Sebastião,-1,0,Região Administrativa,lesao_seguida_morte,2023,0
+São Sebastião,-1,0,Região Administrativa,lesao_seguida_morte,2024,0
+Taguatinga,3,3,Região Administrativa,lesao_seguida_morte,2015,0
+Taguatinga,3,3,Região Administrativa,lesao_seguida_morte,2016,0
+Taguatinga,3,3,Região Administrativa,lesao_seguida_morte,2017,2
+Taguatinga,3,3,Região Administrativa,lesao_seguida_morte,2018,0
+Taguatinga,3,3,Região Administrativa,lesao_seguida_morte,2019,1
+Taguatinga,3,3,Região Administrativa,lesao_seguida_morte,2020,0
+Taguatinga,3,3,Região Administrativa,lesao_seguida_morte,2021,1
+Taguatinga,3,3,Região Administrativa,lesao_seguida_morte,2022,0
+Taguatinga,3,3,Região Administrativa,lesao_seguida_morte,2023,0
+Taguatinga,3,3,Região Administrativa,lesao_seguida_morte,2024,3
+Varjão,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Varjão,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Varjão,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Varjão,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Varjão,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Varjão,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Varjão,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Varjão,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Varjão,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Varjão,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Vicente Pires,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Vicente Pires,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Vicente Pires,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Vicente Pires,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Vicente Pires,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Vicente Pires,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Vicente Pires,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Vicente Pires,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Vicente Pires,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Vicente Pires,0,0,Região Administrativa,lesao_seguida_morte,2024,0
+Águas Claras,0,0,Região Administrativa,lesao_seguida_morte,2015,0
+Águas Claras,0,0,Região Administrativa,lesao_seguida_morte,2016,0
+Águas Claras,0,0,Região Administrativa,lesao_seguida_morte,2017,0
+Águas Claras,0,0,Região Administrativa,lesao_seguida_morte,2018,0
+Águas Claras,0,0,Região Administrativa,lesao_seguida_morte,2019,0
+Águas Claras,0,0,Região Administrativa,lesao_seguida_morte,2020,0
+Águas Claras,0,0,Região Administrativa,lesao_seguida_morte,2021,0
+Águas Claras,0,0,Região Administrativa,lesao_seguida_morte,2022,0
+Águas Claras,0,0,Região Administrativa,lesao_seguida_morte,2023,0
+Águas Claras,0,0,Região Administrativa,lesao_seguida_morte,2024,0

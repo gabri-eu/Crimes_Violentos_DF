@@ -1,36 +1,35 @@
-﻿Região Administrativa,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2015 a 2024,2023 a 2024
-Distrito Federal,9,22,17,27,33,18,26,20,31,23,1.55555555555556,-0.258064516129032
-Águas Claras,0,0,1,0,0,1,0,0,0,1,,
-Arniqueira,0,0,0,0,0,0,0,0,1,0,,
-Brasília (Plano Piloto),0,1,1,2,4,0,0,0,1,0,,
-Brazlândia,1,1,0,0,0,0,0,1,0,0,,
-Candangolândia,0,0,1,0,0,1,0,0,0,0,,
-Ceilândia,1,5,2,0,2,3,3,3,6,3,,
-Cruzeiro,0,0,0,0,1,0,0,1,0,0,,
-Fercal,0,1,1,0,1,1,0,0,0,0,,
-Gama,2,2,0,1,2,0,1,0,3,3,,
-Guará,2,1,0,1,0,0,0,0,0,0,,
-Itapoã,0,1,0,2,1,1,1,2,0,2,,
-Jardim Botânico,0,1,0,0,0,0,0,0,0,1,,
-Lago Norte,0,0,0,0,0,0,0,0,0,0,,
-Lago Sul,0,0,0,0,0,1,0,0,0,0,,
-Núcleo Bandeirante,0,0,0,0,0,1,0,0,0,0,,
-Paranoá,0,1,0,0,3,0,3,0,0,1,,
-Park Way,0,0,0,0,0,0,0,0,1,0,,
-Planaltina,1,1,0,1,3,2,1,2,4,0,,
-Recanto das Emas,0,0,0,3,0,2,1,2,2,1,,
-Riacho Fundo,0,0,1,0,1,0,0,0,1,0,,
-Riacho Fundo II,0,1,0,2,0,0,1,1,1,0,,
-Samambaia,1,3,3,2,1,2,4,1,2,2,,
-Santa Maria,0,1,2,3,3,1,2,1,1,1,,
-São Sebastião,0,0,3,1,1,0,1,0,2,1,,
-SCIA/Estrutural,1,1,1,1,0,0,1,0,1,2,,
-SIA,0,0,0,0,0,0,0,0,0,1,,
-Sobradinho,0,1,0,5,2,0,3,1,0,0,,
-Sobradinho II,0,0,0,3,1,0,2,0,1,0,,
-Sol Nascente/Pôr do Sol,0,0,0,0,0,1,1,1,1,1,,
-Sudoeste/Octogonal,0,0,0,0,1,0,0,1,0,0,,
-Taguatinga,0,0,0,0,3,1,1,3,2,1,,
-Varjão,0,0,0,0,0,0,0,0,0,0,,
-Vicente Pires,0,0,1,0,3,0,0,0,1,2,,
-* valor não divisivel por zero,0,0,1,0,3,0,0,0,1,2,,
+﻿regiao_administrativa,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,variacao_2015_2024,variacao_2023_2024,nivel_geografico,tipo_crime
+Distrito Federal,9,22,17,27,33,18,26,20,31,23,14,-8,Distrito Federal,feminicidios
+Águas Claras,0,0,1,0,0,1,0,0,0,1,1,1,Região Administrativa,feminicidios
+Arniqueira,0,0,0,0,0,0,0,0,1,0,0,-1,Região Administrativa,feminicidios
+Brasília (Plano Piloto),0,1,1,2,4,0,0,0,1,0,0,-1,Região Administrativa,feminicidios
+Brazlândia,1,1,0,0,0,0,0,1,0,0,-1,0,Região Administrativa,feminicidios
+Candangolândia,0,0,1,0,0,1,0,0,0,0,0,0,Região Administrativa,feminicidios
+Ceilândia,1,5,2,0,2,3,3,3,6,3,2,-3,Região Administrativa,feminicidios
+Cruzeiro,0,0,0,0,1,0,0,1,0,0,0,0,Região Administrativa,feminicidios
+Fercal,0,1,1,0,1,1,0,0,0,0,0,0,Região Administrativa,feminicidios
+Gama,2,2,0,1,2,0,1,0,3,3,1,0,Região Administrativa,feminicidios
+Guará,2,1,0,1,0,0,0,0,0,0,-2,0,Região Administrativa,feminicidios
+Itapoã,0,1,0,2,1,1,1,2,0,2,2,2,Região Administrativa,feminicidios
+Jardim Botânico,0,1,0,0,0,0,0,0,0,1,1,1,Região Administrativa,feminicidios
+Lago Norte,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,feminicidios
+Lago Sul,0,0,0,0,0,1,0,0,0,0,0,0,Região Administrativa,feminicidios
+Núcleo Bandeirante,0,0,0,0,0,1,0,0,0,0,0,0,Região Administrativa,feminicidios
+Paranoá,0,1,0,0,3,0,3,0,0,1,1,1,Região Administrativa,feminicidios
+Park Way,0,0,0,0,0,0,0,0,1,0,0,-1,Região Administrativa,feminicidios
+Planaltina,1,1,0,1,3,2,1,2,4,0,-1,-4,Região Administrativa,feminicidios
+Recanto das Emas,0,0,0,3,0,2,1,2,2,1,1,-1,Região Administrativa,feminicidios
+Riacho Fundo,0,0,1,0,1,0,0,0,1,0,0,-1,Região Administrativa,feminicidios
+Riacho Fundo II,0,1,0,2,0,0,1,1,1,0,0,-1,Região Administrativa,feminicidios
+Samambaia,1,3,3,2,1,2,4,1,2,2,1,0,Região Administrativa,feminicidios
+Santa Maria,0,1,2,3,3,1,2,1,1,1,1,0,Região Administrativa,feminicidios
+São Sebastião,0,0,3,1,1,0,1,0,2,1,1,-1,Região Administrativa,feminicidios
+SCIA/Estrutural,1,1,1,1,0,0,1,0,1,2,1,1,Região Administrativa,feminicidios
+SIA,0,0,0,0,0,0,0,0,0,1,1,1,Região Administrativa,feminicidios
+Sobradinho,0,1,0,5,2,0,3,1,0,0,0,0,Região Administrativa,feminicidios
+Sobradinho II,0,0,0,3,1,0,2,0,1,0,0,-1,Região Administrativa,feminicidios
+Sol Nascente/Pôr do Sol,0,0,0,0,0,1,1,1,1,1,1,0,Região Administrativa,feminicidios
+Sudoeste/Octogonal,0,0,0,0,1,0,0,1,0,0,0,0,Região Administrativa,feminicidios
+Taguatinga,0,0,0,0,3,1,1,3,2,1,1,-1,Região Administrativa,feminicidios
+Varjão,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,feminicidios
+Vicente Pires,0,0,1,0,3,0,0,0,1,2,2,1,Região Administrativa,feminicidios

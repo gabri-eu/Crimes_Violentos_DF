@@ -1,35 +1,35 @@
-﻿Região Administrativa,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2015 a 2024,2023 a 2024
-Distrito Federal,6,5,5,8,6,5,7,5,1,13,1.16666666666667,12.0
-Águas Claras,0,0,0,0,0,0,0,0,0,0,,
-Arniqueira,0,0,0,0,0,0,0,1,0,0,,
-Brasília (Plano Piloto),0,1,0,0,0,1,0,0,0,1,,
-Brazlândia,0,0,1,2,0,0,0,0,0,1,,
-Candangolândia,0,0,0,0,0,0,0,0,0,0,,
-Ceilândia,0,1,0,2,1,0,1,1,0,1,,
-Cruzeiro,0,0,0,0,0,0,0,0,0,0,,
-Fercal,0,0,0,0,0,0,0,0,0,0,,
-Gama,0,0,0,0,0,0,0,0,1,1,,
-Guará,1,0,0,0,0,0,0,0,0,0,,
-Itapoã,1,0,0,0,0,0,0,0,0,0,,
-Jardim Botânico,0,0,0,0,0,0,0,0,0,0,,
-Lago Norte,0,0,0,0,0,0,0,0,0,0,,
-Lago Sul,0,0,0,0,0,0,0,0,0,0,,
-Núcleo Bandeirante,0,0,0,0,0,0,0,0,0,0,,
-Paranoá,0,0,0,0,0,0,0,0,0,0,,
-Park Way,0,0,0,0,0,0,0,0,0,0,,
-Planaltina,2,1,1,4,2,1,0,2,0,1,,
-Recanto das Emas,0,1,0,0,0,0,0,0,0,0,,
-Riacho Fundo,0,0,0,0,0,0,0,1,0,0,,
-Riacho Fundo II,0,0,0,0,0,0,0,0,0,0,,
-Samambaia,1,0,0,0,0,0,3,0,0,3,,
-Santa Maria,0,0,0,0,1,1,0,0,0,2,,
-São Sebastião,1,0,0,0,0,0,1,0,0,0,,
-SCIA/Estrutural,0,0,0,0,0,0,0,0,0,0,,
-SIA,0,0,0,0,0,0,0,0,0,0,,
-Sobradinho,0,1,1,0,0,1,1,0,0,0,,
-Sobradinho II,0,0,0,0,0,0,0,0,0,0,,
-Sol Nascente/Pôr do Sol,0,0,0,0,0,1,0,0,0,0,,
-Sudoeste/Octogonal,0,0,0,0,1,0,0,0,0,0,,
-Taguatinga,0,0,2,0,1,0,1,0,0,3,,
-Varjão,0,0,0,0,0,0,0,0,0,0,,
-Vicente Pires,0,0,0,0,0,0,0,0,0,0,,
+﻿regiao_administrativa,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,variacao_2015_2024,variacao_2023_2024,nivel_geografico,tipo_crime
+Distrito Federal,6,5,5,8,6,5,7,5,1,13,1.16666666666667,12.0,Distrito Federal,Lesão seguida de morte
+Águas Claras,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Arniqueira,0,0,0,0,0,0,0,1,0,0,,,Região Administrativa,Lesão seguida de morte
+Brasília (Plano Piloto),0,1,0,0,0,1,0,0,0,1,,,Região Administrativa,Lesão seguida de morte
+Brazlândia,0,0,1,2,0,0,0,0,0,1,,,Região Administrativa,Lesão seguida de morte
+Candangolândia,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Ceilândia,0,1,0,2,1,0,1,1,0,1,,,Região Administrativa,Lesão seguida de morte
+Cruzeiro,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Fercal,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Gama,0,0,0,0,0,0,0,0,1,1,,,Região Administrativa,Lesão seguida de morte
+Guará,1,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Itapoã,1,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Jardim Botânico,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Lago Norte,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Lago Sul,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Núcleo Bandeirante,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Paranoá,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Park Way,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Planaltina,2,1,1,4,2,1,0,2,0,1,,,Região Administrativa,Lesão seguida de morte
+Recanto das Emas,0,1,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Riacho Fundo,0,0,0,0,0,0,0,1,0,0,,,Região Administrativa,Lesão seguida de morte
+Riacho Fundo II,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Samambaia,1,0,0,0,0,0,3,0,0,3,,,Região Administrativa,Lesão seguida de morte
+Santa Maria,0,0,0,0,1,1,0,0,0,2,,,Região Administrativa,Lesão seguida de morte
+São Sebastião,1,0,0,0,0,0,1,0,0,0,,,Região Administrativa,Lesão seguida de morte
+SCIA/Estrutural,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+SIA,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Sobradinho,0,1,1,0,0,1,1,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Sobradinho II,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Sol Nascente/Pôr do Sol,0,0,0,0,0,1,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Sudoeste/Octogonal,0,0,0,0,1,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Taguatinga,0,0,2,0,1,0,1,0,0,3,,,Região Administrativa,Lesão seguida de morte
+Varjão,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte
+Vicente Pires,0,0,0,0,0,0,0,0,0,0,,,Região Administrativa,Lesão seguida de morte

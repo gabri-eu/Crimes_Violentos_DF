@@ -1,35 +1,35 @@
-﻿Região Administrativa,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2015 a 2024,2023 a 2024
-Distrito Federal,46,47,36,32,25,32,23,20,18,8,-0.826086956521739,-0.555555555555556
-Águas Claras,0,0,1,0,0,1,0,0,0,0,,
-Arniqueira,0,0,0,0,0,1,0,1,1,0,,
-Brasília (Plano Piloto),1,0,4,1,1,4,0,0,0,0,,
-Brazlândia,0,1,3,1,1,1,0,1,0,1,,
-Candangolândia,1,0,1,0,0,0,0,0,0,0,,
-Ceilândia,6,3,8,7,5,3,3,7,1,1,,
-Cruzeiro,1,2,0,0,0,0,0,0,0,0,,
-Fercal,0,0,1,0,0,0,0,0,2,1,,
-Gama,3,3,1,3,1,1,2,0,0,0,,
-Guará,0,2,2,0,0,0,1,0,0,0,,
-Itapoã,0,3,2,1,2,0,2,0,1,1,,
-Jardim Botânico,0,0,0,0,0,0,0,0,0,0,,
-Lago Norte,0,0,0,0,0,0,1,0,0,0,,
-Lago Sul,1,0,0,2,0,0,0,0,0,0,,
-Núcleo Bandeirante,0,2,0,0,0,0,0,1,0,0,,
-Paranoá,1,2,1,2,0,4,1,0,0,0,,
-Park Way,1,0,1,0,0,0,0,0,0,0,,
-Planaltina,4,2,2,1,3,2,2,2,1,0,,
-Recanto das Emas,2,4,1,1,5,3,1,0,1,0,,
-Riacho Fundo,0,0,0,0,0,0,0,0,1,0,,
-Riacho Fundo II,0,0,0,0,0,0,0,1,0,0,,
-Samambaia,8,7,3,2,0,1,2,2,2,1,,
-Santa Maria,6,4,1,1,0,1,0,2,2,0,,
-São Sebastião,0,4,1,0,0,1,3,2,1,0,,
-SCIA/Estrutural,1,1,1,0,0,0,0,0,1,0,,
-SIA,0,0,0,0,1,1,0,0,0,0,,
-Sobradinho,2,2,1,1,3,1,0,0,1,0,,
-Sobradinho II,2,1,0,2,0,0,0,1,0,0,,
-Sol Nascente/Pôr do Sol,0,0,0,0,0,4,3,0,1,0,,
-Sudoeste/Octogonal,0,0,0,0,0,0,0,0,0,0,,
-Taguatinga,5,4,1,4,3,3,2,0,2,2,,
-Varjão,0,0,0,0,0,0,0,0,0,0,,
-Vicente Pires,1,0,0,3,0,0,0,0,0,1,,
+﻿regiao_administrativa,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,variacao_2015_2024,variacao_2023_2024,nivel_geografico,tipo_crime
+Distrito Federal,46,47,36,32,25,32,23,20,18,8,-38,-10,Distrito Federal,latrocinios
+Águas Claras,0,0,1,0,0,1,0,0,0,0,0,0,Região Administrativa,latrocinios
+Arniqueira,0,0,0,0,0,1,0,1,1,0,0,-1,Região Administrativa,latrocinios
+Brasília (Plano Piloto),1,0,4,1,1,4,0,0,0,0,-1,0,Região Administrativa,latrocinios
+Brazlândia,0,1,3,1,1,1,0,1,0,1,1,1,Região Administrativa,latrocinios
+Candangolândia,1,0,1,0,0,0,0,0,0,0,-1,0,Região Administrativa,latrocinios
+Ceilândia,6,3,8,7,5,3,3,7,1,1,-5,0,Região Administrativa,latrocinios
+Cruzeiro,1,2,0,0,0,0,0,0,0,0,-1,0,Região Administrativa,latrocinios
+Fercal,0,0,1,0,0,0,0,0,2,1,1,-1,Região Administrativa,latrocinios
+Gama,3,3,1,3,1,1,2,0,0,0,-3,0,Região Administrativa,latrocinios
+Guará,0,2,2,0,0,0,1,0,0,0,0,0,Região Administrativa,latrocinios
+Itapoã,0,3,2,1,2,0,2,0,1,1,1,0,Região Administrativa,latrocinios
+Jardim Botânico,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,latrocinios
+Lago Norte,0,0,0,0,0,0,1,0,0,0,0,0,Região Administrativa,latrocinios
+Lago Sul,1,0,0,2,0,0,0,0,0,0,-1,0,Região Administrativa,latrocinios
+Núcleo Bandeirante,0,2,0,0,0,0,0,1,0,0,0,0,Região Administrativa,latrocinios
+Paranoá,1,2,1,2,0,4,1,0,0,0,-1,0,Região Administrativa,latrocinios
+Park Way,1,0,1,0,0,0,0,0,0,0,-1,0,Região Administrativa,latrocinios
+Planaltina,4,2,2,1,3,2,2,2,1,0,-4,-1,Região Administrativa,latrocinios
+Recanto das Emas,2,4,1,1,5,3,1,0,1,0,-2,-1,Região Administrativa,latrocinios
+Riacho Fundo,0,0,0,0,0,0,0,0,1,0,0,-1,Região Administrativa,latrocinios
+Riacho Fundo II,0,0,0,0,0,0,0,1,0,0,0,0,Região Administrativa,latrocinios
+Samambaia,8,7,3,2,0,1,2,2,2,1,-7,-1,Região Administrativa,latrocinios
+Santa Maria,6,4,1,1,0,1,0,2,2,0,-6,-2,Região Administrativa,latrocinios
+São Sebastião,0,4,1,0,0,1,3,2,1,0,0,-1,Região Administrativa,latrocinios
+SCIA/Estrutural,1,1,1,0,0,0,0,0,1,0,-1,-1,Região Administrativa,latrocinios
+SIA,0,0,0,0,1,1,0,0,0,0,0,0,Região Administrativa,latrocinios
+Sobradinho,2,2,1,1,3,1,0,0,1,0,-2,-1,Região Administrativa,latrocinios
+Sobradinho II,2,1,0,2,0,0,0,1,0,0,-2,0,Região Administrativa,latrocinios
+Sol Nascente/Pôr do Sol,0,0,0,0,0,4,3,0,1,0,0,-1,Região Administrativa,latrocinios
+Sudoeste/Octogonal,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,latrocinios
+Taguatinga,5,4,1,4,3,3,2,0,2,2,-3,0,Região Administrativa,latrocinios
+Varjão,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,latrocinios
+Vicente Pires,1,0,0,3,0,0,0,0,0,1,0,1,Região Administrativa,latrocinios

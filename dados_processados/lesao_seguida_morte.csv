@@ -1,37 +1,35 @@
-﻿unnamed_0,unnamed_1,unnamed_2,unnamed_3,unnamed_4,unnamed_5,unnamed_6,unnamed_7,unnamed_8,unnamed_9,unnamed_10,unnamed_11,unnamed_12,unnamed_13
-,LCSM,,,,,,,,,,,Variação (%),
-,Região Administrativa,2015,2016,2017,2018,2019,2020.0,2021.0,2022.0,2023.0,2024.0,2015 a 2024,2023 a 2024
-,Distrito Federal,6,5,5,8,6,5.0,7.0,5.0,1.0,13.0,1.16666666666667,12
-,Águas Claras,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Arniqueira,-,-,-,-,-,0.0,0.0,1.0,0.0,0.0,*,*
-,Brasília (Plano Piloto),0,1,0,0,0,1.0,0.0,0.0,0.0,1.0,*,*
-,Brazlândia,0,0,1,2,0,0.0,0.0,0.0,0.0,1.0,*,*
-,Candangolândia,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Ceilândia,0,1,0,2,1,0.0,1.0,1.0,0.0,1.0,*,*
-,Cruzeiro,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Fercal,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Gama,0,0,0,0,0,0.0,0.0,0.0,1.0,1.0,*,*
-,Guará,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Itapoã,1,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Jardim Botânico,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Lago Norte,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Lago Sul,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Núcleo Bandeirante,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Paranoá,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Park Way,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Planaltina,2,1,1,4,2,1.0,0.0,2.0,0.0,1.0,*,*
-,Recanto das Emas,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Riacho Fundo,0,0,0,0,0,0.0,0.0,1.0,0.0,0.0,*,*
-,Riacho Fundo II,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Samambaia,1,0,0,0,0,0.0,3.0,0.0,0.0,3.0,*,*
-,Santa Maria,0,0,0,0,1,1.0,0.0,0.0,0.0,2.0,*,*
-,São Sebastião,1,0,0,0,0,0.0,1.0,0.0,0.0,0.0,*,*
-,SCIA/Estrutural,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,SIA,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Sobradinho,0,1,1,0,0,1.0,1.0,0.0,0.0,0.0,*,*
-,Sobradinho II,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Sol Nascente/Pôr do Sol,-,-,-,-,-,1.0,0.0,0.0,0.0,0.0,*,*
-,Sudoeste/Octogonal,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,*,*
-,Taguatinga,0,0,2,0,1,0.0,1.0,0.0,0.0,3.0,*,*
-,Varjão,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
-,Vicente Pires,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,*,*
+﻿regiao_administrativa,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,variacao_2015_2024,variacao_2023_2024,nivel_geografico,tipo_crime
+Distrito Federal,6,5,5,8,6,5,7,5,1,13,7,12,Distrito Federal,lesao_seguida_morte
+Águas Claras,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Arniqueira,0,0,0,0,0,0,0,1,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Brasília (Plano Piloto),0,1,0,0,0,1,0,0,0,1,1,1,Região Administrativa,lesao_seguida_morte
+Brazlândia,0,0,1,2,0,0,0,0,0,1,1,1,Região Administrativa,lesao_seguida_morte
+Candangolândia,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Ceilândia,0,1,0,2,1,0,1,1,0,1,1,1,Região Administrativa,lesao_seguida_morte
+Cruzeiro,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Fercal,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Gama,0,0,0,0,0,0,0,0,1,1,1,0,Região Administrativa,lesao_seguida_morte
+Guará,1,0,0,0,0,0,0,0,0,0,-1,0,Região Administrativa,lesao_seguida_morte
+Itapoã,1,0,0,0,0,0,0,0,0,0,-1,0,Região Administrativa,lesao_seguida_morte
+Jardim Botânico,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Lago Norte,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Lago Sul,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Núcleo Bandeirante,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Paranoá,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Park Way,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Planaltina,2,1,1,4,2,1,0,2,0,1,-1,1,Região Administrativa,lesao_seguida_morte
+Recanto das Emas,0,1,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Riacho Fundo,0,0,0,0,0,0,0,1,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Riacho Fundo II,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Samambaia,1,0,0,0,0,0,3,0,0,3,2,3,Região Administrativa,lesao_seguida_morte
+Santa Maria,0,0,0,0,1,1,0,0,0,2,2,2,Região Administrativa,lesao_seguida_morte
+São Sebastião,1,0,0,0,0,0,1,0,0,0,-1,0,Região Administrativa,lesao_seguida_morte
+SCIA/Estrutural,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+SIA,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Sobradinho,0,1,1,0,0,1,1,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Sobradinho II,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Sol Nascente/Pôr do Sol,0,0,0,0,0,1,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Sudoeste/Octogonal,0,0,0,0,1,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Taguatinga,0,0,2,0,1,0,1,0,0,3,3,3,Região Administrativa,lesao_seguida_morte
+Varjão,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
+Vicente Pires,0,0,0,0,0,0,0,0,0,0,0,0,Região Administrativa,lesao_seguida_morte
