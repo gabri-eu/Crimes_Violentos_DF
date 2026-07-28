@@ -135,63 +135,63 @@ Após o processamento, a base contém, entre outras variáveis:
 
 # Exemplos de resultados
 
-## Evolução anual dos crimes violentos
+## Distribuição das ocorrências
 
-![Figura 1](imagens/figura_01_evolucao_anual.png)
-
----
-
-## Distribuição por natureza criminal
-
-![Figura 2](imagens/figura_02_natureza.png)
+![Figura 1](imagens/figura_01_distribuicao_ocorrencias.png)
 
 ---
 
-## Série temporal mensal
+## Distribuição das taxas de crimes violentos
 
-![Figura 3](imagens/figura_03_serie_mensal.png)
-
----
-
-## Crimes por Região Administrativa
-
-![Figura 4](imagens/figura_04_ra.png)
+![Figura 2](imagens/figura_02_distribuicao_taxas.png)
 
 ---
 
-## Taxa por 100 mil habitantes
+## Ocorrências por tipo de crime
 
-![Figura 5](imagens/figura_05_taxa.png)
-
----
-
-## Ranking das Regiões Administrativas
-
-![Figura 6](imagens/figura_06_ranking.png)
+![Figura 3](imagens/figura_03_ocorrencias_tipo_crime.png)
 
 ---
 
-## Distribuição espacial
+## Distribuição das taxas por tipo de crime
 
-![Figura 7](imagens/figura_07_mapa.png)
-
----
-
-## Comparação entre Regiões Administrativas
-
-![Figura 8](imagens/figura_08_boxplot.png)
+![Figura 4](imagens/figura_04_boxplot_tipo_crime.png)
 
 ---
 
-## Participação percentual por natureza
+## Ocorrências por Região Administrativa
 
-![Figura 9](imagens/figura_09_percentual.png)
+![Figura 5](imagens/figura_05_ocorrencias_ra.png)
 
 ---
 
-## Evolução acumulada
+## Taxa média por Região Administrativa
 
-![Figura 10](imagens/figura_10_acumulado.png)
+![Figura 6](imagens/figura_06_taxa_ra.png)
+
+---
+
+## População por Região Administrativa
+
+![Figura 7](imagens/figura_07_populacao_ra.png)
+
+---
+
+## Renda domiciliar per capita por Região Administrativa
+
+![Figura 8](imagens/figura_08_renda_ra.png)
+
+---
+
+## População e número de ocorrências
+
+![Figura 9](imagens/figura_09_populacao_ocorrencias.png)
+
+---
+
+## Renda per capita e taxa de crimes violentos
+
+![Figura 10](imagens/figura_10_renda_taxa.png)
 
 ---
 
