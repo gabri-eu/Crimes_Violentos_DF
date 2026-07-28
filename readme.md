@@ -218,7 +218,7 @@ Bases públicas disponibilizadas pelo Portal de Dados Abertos.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/Crimes-Violentos-DF.git
+git clone https://github.com/gabri-eu/Crimes-Violentos-DF.git
 ```
 
 Instale as dependências:
